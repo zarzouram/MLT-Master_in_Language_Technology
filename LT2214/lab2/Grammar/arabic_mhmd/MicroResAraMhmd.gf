@@ -34,6 +34,7 @@ oper
   Adjective : Type = {s : State => ANum => Str} ;
 
   -- ********** operations on roots and patterns **********
+  -- source: GF Tutorial: https://www.grammaticalframework.org/lib/doc/rgl-tutorial/index.html
   appPattern : Root -> Pattern -> Str = \r,p ->
     p.F + r.F + p.FC + r.C + p.CL + r.L + p.L ;
 
