@@ -1,0 +1,64 @@
+form:
+  - meeting_form
+
+slots:
+  person:
+    type: unfeaturized
+  toto:
+    type: unfeaturized
+  time:
+    type: unfeaturized
+
+intents:
+  - greet
+  - affirm
+  - deny
+  - request_meeting:
+      use_entities: []
+  - inform
+
+entities:
+  - person
+  - toto
+  - time
+
+actions:
+  - utter_greet
+  - utter_wh_person
+  - utter_yn_correct
+  - utter_inform
+  - utter_ask_person
+  - utter_ask_toto
+  - utter_ask_time
+  - utter_submit
+  - meeting_form
+
+  
+templates:
+  utter_greet:
+  - text: "Let’s make an appointment."
+  
+  utter_wh_person:
+  - text: "Who are you meeting with?"
+
+  utter_yn_correct:
+  - text: "Is this correct?"
+
+  utter_inform:
+  - text: |
+      Here is your appointment.
+      You are meeting {person} on {toto} at {time}.
+
+  utter_ask_person:
+    - text: "Who are you meeting with?"
+  utter_ask_toto:
+    - text: "What date is your meeting with {person}?"
+  utter_ask_time:
+    - text: "What time is your meeting?"
+
+  utter_submit:
+    - text: "All set!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: false

@@ -1,0 +1,92 @@
+form:
+  - flight_form
+
+entities:
+  - from
+  - to
+  - date
+  - return
+  - class
+  - oneway
+  - requested_slot
+
+slots:
+  from:
+    type: unfeaturized
+  to:
+    type: unfeaturized
+  date:
+    type: unfeaturized
+  return:
+    type: unfeaturized
+  class:
+    type: unfeaturized
+  oneway:
+    type: bool
+  requested_slot:
+    type: unfeaturized
+
+intents:
+  - greet
+  - affirm
+  - deny: {triggers: action_slots_reset}
+  - request_booking_flight:
+      use_entities: []
+  - inform
+
+actions:
+  # - utter_greet
+  - utter_welcome_massege
+  - utter_restrt
+  # - utter_yn_correct
+  - utter_inform
+  - utter_inform1
+  - utter_ask_from
+  - utter_ask_to
+  - utter_ask_date
+  - utter_ask_class
+  - utter_ask_oneway
+  - utter_ask_return
+  - utter_submit
+  - flight_form
+  - action_slots_reset
+  # - action_deactivate_form
+
+templates:
+  # utter_greet:
+  # - text: "Let’s make an appointment."
+  utter_restrt:
+  - text: "Enter hi to start again"
+  utter_welcome_massege:
+  - text: "Welcome to flight booking system"
+
+  # utter_yn_correct:
+  # - text: "Is this correct?"
+
+  utter_inform:
+  - text: |
+      Do you want to go {from} to {to} on {date}.
+
+  utter_inform1:
+  - text: |
+      Do you want to go {from} to {to} on {date} and return on {return}
+
+  utter_ask_from:
+    - text: "What city are you leaving from?"
+  utter_ask_to:
+    - text: "Where are you going?"
+  utter_ask_date:
+    - text: "What date do you want to leave?"
+  utter_ask_class:
+    - text: "What class do you want travell on?"
+  utter_ask_oneway:
+    - text: "Is it one way travell?"
+  utter_ask_return:
+    - text: "What date do you want to return?"
+
+  utter_submit:
+    - text: "Your flight has been booked!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

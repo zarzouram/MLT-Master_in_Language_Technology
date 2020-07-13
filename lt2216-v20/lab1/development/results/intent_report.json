@@ -1,0 +1,50 @@
+{
+  "contact_police": {
+    "precision": 0.9903846153846154,
+    "recall": 0.9155555555555556,
+    "f1-score": 0.9515011547344111,
+    "support": 225,
+    "confused_with": {
+      "find_restaurant": 10,
+      "book_taxi": 9
+    }
+  },
+  "find_restaurant": {
+    "precision": 0.9897151898734177,
+    "recall": 0.9834905660377359,
+    "f1-score": 0.9865930599369085,
+    "support": 1272,
+    "confused_with": {
+      "book_taxi": 20,
+      "contact_police": 1
+    }
+  },
+  "book_taxi": {
+    "precision": 0.9343891402714932,
+    "recall": 0.9904076738609112,
+    "f1-score": 0.9615832363213038,
+    "support": 417,
+    "confused_with": {
+      "find_restaurant": 3,
+      "contact_police": 1
+    }
+  },
+  "micro avg": {
+    "precision": 0.9770114942528736,
+    "recall": 0.9770114942528736,
+    "f1-score": 0.9770114942528736,
+    "support": 1914
+  },
+  "macro avg": {
+    "precision": 0.9714963151765087,
+    "recall": 0.9631512651514008,
+    "f1-score": 0.9665591503308745,
+    "support": 1914
+  },
+  "weighted avg": {
+    "precision": 0.977740089589205,
+    "recall": 0.9770114942528736,
+    "f1-score": 0.9770189872523374,
+    "support": 1914
+  }
+}

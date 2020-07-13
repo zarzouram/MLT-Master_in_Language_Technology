@@ -1,0 +1,1997 @@
+## intent:contact_police
+- I've just had a dispute with another driver due to an accident we had. I need the police please!
+- Where is the Parkside Police Station located?
+- Can you give me the address for the Parkside Police Station? 
+- Could you give me the address of the Parkside Police station?
+- I am trying to find the Parkside Police Station.
+- Can you help me, I've been mugged?
+- Where is the police station?
+- Could you please connect me to the closest police station?
+- I need some help finding the Parkside Police Station.
+- Can you help me please? I just got robbed and I need help!
+- Another driver bumped into my car. He says its no big deal and wants to drive off, but I'm not so sure. Can you help?
+- i need help i have robbed 
+- I am looking for the Parkside Police Station
+- Help I've been robbed. I need help.
+- Where can I find the police station?
+- I am trying to find the Parkside Police Station.
+- I am looking for the police station
+- Yes, please. I was just robbed and I don't know what to do next.
+- I need to contact the police please.
+- There's some disagreement about what to do about a car accident. Can you help me with that?
+- I have been robbed and am looking for help.  Can you help me?
+- Please connect me to the Parkside Police Station.
+- Can I get some help with resolving a dispute about a car accident?
+- I need help, I was robbed.
+- Could you tell me the nearest police station?
+- I was robbed and I want some help
+- Can you give me the address to the Parkside Police Station?
+- I am a victim of a robbery. I need help.
+- I need some help involving a problem with an automobile accident.
+- Hello. I'm looking for the nearest police station.
+- I am looking for the nearest police station
+- Please help me, I've just been robbed and I need to report this to the police.
+- Hello, I need information about Parkside Police Station, please.
+- Can you locate the nearest police station please?
+- where is the parkside police station
+- Hi, I am trying to find the police station that's closest to my location please.
+- I need to find the nearest police station.
+- I have been robbed and need to know how I can get help.
+- I'm involved in a bit of an argument related to an automobile accident. Can you help me out?
+- I was just the victim of a robbery and I need to contact the police please!
+- Can you direct me to the closest police station?
+- Oh my God, I've just been robbed! I need the police please! Help!
+- What is the location of the Parkside Police Station?
+- I have just been robbed and i am seeking assistance
+- I been robbed and need to know what i should do next.
+- Another driver bumped into my rental car, but he's saying it's my fault. I need help resolving this.
+- Am looking for the nearest police station
+- I need help, i just been the victim of a robbery.
+- I was just robbed.  Please give me emergency contact information
+- I was in a car accident. I need to contact the police, please.
+- I've just been robbed. What should I do?
+- I was in a car accident dispute and I am looking for help
+- Hi there, I am am trying to find out more information about the Parkside Police Station.  
+- I want to know where I would find the Parkside Police Station. Could you tell me?
+- I am looking for the nearest police station
+- I'm looking for information on the Parkside Police Station.
+- Can you get me the nearest police station?
+- Am robbed and looking for help
+- I am looking for the Parkside Police Station.
+- I was just caught up in a disagreement with another motorist about a road accident and I am in need of some help!
+- Can you help me find the nearest police station?  I was just robbed!
+- Am looking for the Parkside Police Station
+- I need the police please.
+- What is the closest police station to my current location?
+- Please provide the location of the nearest police station.
+- I'm looking for the Parkside Police Station please.
+- I need some details about a police station, I think it's called Parkside Station.
+- I was in a car accident and I need some help
+- I need to speak to the police.
+- Hi! I need to find the Parkside Police station please.
+- Am looking for the nearest police station
+- Hi, I am looking for the nearest police station.
+- I have been involved in a car accident dispute and i do not know where to go from here
+- Where is the nearest police station?
+- Hello there, could you tell me where the Parkside Police Station is please?
+- can i find the parkside police station
+- I've been a victim of a robbery. Can you help me?
+- I need help with a car accident dispute.
+- I had a dispute over a car accident and need help.
+- Yes, I am in a dispute after a car accident. I need help right away.
+- I got into a fender-bender with my rental car, and now I need help resolving the dispute with the owner of the other car.
+- Can you give me the contact info for the nearest police station?
+- Can you locate the nearest police station?
+- Hi, I want to find the police station that's nearest to me.
+- Hello, I need information for the nearest police station please.
+- I was robbed and I need help!
+- Oh, hey, can you tell me where Parkside Police Station is located?
+- Help me please, i just been robbed and don't know what to do.
+- Can you point me to the nearest police station?
+- Help I was just robbed! Could you please help me contact the police?
+- I've just has a dispute involving an auto accident. I need some help urgently!
+- I'm looking for a police station. It has something to do with parkside, although I don't know if that's a name or a location.
+- I've been robbed. Can I get some help?
+- I need to get in touch with the police, I have just been the victim of a robbery.
+- Good afternoon, would you kindly tell me where the Parkside Police Station is?
+- Can you help me find the nearest police station?
+- I was robbed and i don't know what i should do, any ideas?
+- Hello, I need information for the nearest police station please.
+- Please help I've been robbed!!
+- I have been robbed, how do I contact the police?
+- I was robbed a few minutes ago and need assistance.
+- Can you tell me where the Parkside Police Station is located?
+- Help, I was robbed. I need to contact someone. 
+- Hello! I'm looking for the Parkside Police Station. 
+- I'm involved in a minor traffic accident, and the other driver isn't being very cooperative.
+- Help! I was in a car accident dispute!
+- I was in a car accident dispute and I am looking for help
+- I need to contact the nearest police station. 
+- Yes, I've just been involved in a disagreement regarding a car accident and I require assistance please.
+- I'm looking for a the Parkside police station.
+- There's a Parkside Police Station in town, right?
+- Do you know where the Parkside Police Station is?
+- I was robbed and I am looking for help
+- I was just involved in a car accident.
+- I'm looking for help regarding a car accident dispute I was in.
+- I need to contact the police.
+- I was robbed and I need some help.
+- I was in a car accident dispute and need help resolving it
+- Help, I need to find the nearest police station.
+- I need the address for the Parkside police station
+- I was robbed! I need help!
+- Hello I need help finding the nearest police station.
+- Hello, I have been robbed.  Can you please help me get in touch with the police?
+- Please help me! I've just been robbed!
+- Do you know of the Parkside Police Station?
+- I am looking for a nearest police station
+- Hello, I need information on the parkside police station.
+- I need to make a call to the Parkland Police Station please.
+- I was just in a car accident and I need the police to come to the scene. I also need to know where the closest hospital is.
+- Can you tell me where the nearest police station is to me?
+- can i find the parkside police station
+- Hi, I just had a fight with someone regarding an automobile accident we had and I need to contact the police!
+- I have been robbed and looking for help.
+- Hello, do you know where the parkside police station is?
+- I have just been robbed and i am looking for assistance.
+- I am looking for a nearest police station
+- I was involved in a car accident and I need help
+- I was in a car dispute and I am looking for help
+- I just had a physical altercation with another driver after I hit his car accidentally. May I get some help please?
+- I am looking for information about the Parkside Police Station.
+- I was in a car accident dispute and I need help!
+- Hi! I'm looking for the nearest police station.
+- Oh, yes, I need the location of the Parkside Police Station. Where would I find that?
+- I need to find the nearest police station.
+- I need to locate the nearest police station please.
+- I've been robbed! I need to get in touch with the police right away!
+- I was just robbed and I want my stuff back
+- I was robbed and I need to know what to do next
+- where is the parkside police station?
+- I was involved in a car accident and need help sorting it out.
+- Do you have any information on the Parkside Police Station?
+- Yes, could you help me find the Parkside Police Station please?
+- I am involved in a car dispute, I need help.
+- Where is the Parkside Police Station?
+- I was in a car accident dispute and am looking for help.
+- may you help me find the nearest police station
+- Hello, I've been robbed, my valuables were stolen.
+- Hello! I'm looking for the Parkside Police Station. Do you know where that is? Any additional information would be helpful. Thank you!
+- I would like to contact the police.
+- I need to find the nearest police station.
+- I am looking for help with a car accident dispute.
+- I was in a car accident and have a dispute with the other driver so please contact the police and tell them I need help.
+- Hi, I would like to find Parkside Police Station please.
+- Where is the closest police station located?
+- I was just robbed! Please help! I need to contact the police.
+- i had car accident dispute and am looking for help
+- Yes I need the nearest police station, I was in a car accident.
+- looking for the nearest police station.
+- I am looking for the nearest police station
+- I need some help with a car accident I was in.
+- I need some help with a car accident I was in.
+- I was just robbed and need some help!
+- Hi, where can I find the closest police station?
+- I got into a car accident and need help figuring out what to do next.
+- I have just been in a car accident dispute and i am looking for help.
+- I am in a car accident dispute, I need to get some help.
+- I need the address for the Parkside police station.
+- I am looking for the nearest police station
+- How do I find the closest police station?
+- Please give me directions to the Parkside Police Station.
+- Hello, what's the address of the Parkside Police Station, if you would be so kind?
+- Am looking for the Parkside Police Station
+- Someone just hit my car and then attacked me, get the cops for me now!
+- I'm looking for a police station, I think it's called "Parkside".
+- I'm trying to find the Parkside Police Station.
+- Is there an emergency?
+- Please help, I've been in a car accident and am not sure who to call for help.
+- Well, I have been in an accident and need some help.
+- I've just been robbed. I need to report it.
+- I am looking for the nearest police station.
+- Hi I was just robbed... Can I get some help?
+- I am looking for a police station in Parkside
+- I'm trying to find the Parkside Police Station please.
+- I am looking for the  nearest police station.
+- I was just in a car accident and need help figuring out what to do next.
+- I need to find the police station closest to me please.
+- I was parking my car and another driver passed too close and scraped the paint, but she won't acknowledge it was her fault. Can you help?
+- Can you tell me how to get to the Parkside Police Station from my location?
+- I just had a fender bender and got caught up in a fight with the other driver. I need some assistance please!
+- I'm trying to find out where the Parkside Police Station is. Can you help me?
+- I am looking for the Parkside Police Station.  Can you help me?
+- Can I get the address and phone number for the Parkside police station?
+- There's been a traffic accident and I need some help resolving a dispute about it.
+- Please put me in touch with the local police, I was just robbed.
+- Someone just robbed me! I need some help urgently please!
+- I was robbed and I am looking for help
+- I need help, I was in a car accident dispute. 
+- I need to find the nearest police station.
+- Help me, please, I was just the victim of a robbery! I need help right away!
+- Can you tell me about the Parkside police station?
+- I need to find the Parkside Police Station
+- I was in a car accident dispute and I need some help.
+- Hi there, I need to know where I can find the Parkside Police Station.
+- I was just in an accident and need help right away!
+- I need to find the nearest police station.
+- I was told I need to do something at the Parkside Police Station. Can you give me some info about it?
+- My wallet was stolen. Can I get some help?
+- Can you help me? I was in a car accident dispute.
+- Do you have a phone number for the police?
+- This is an emergency. I was robbed and need help.
+- I've just been robbed and I need some help.
+- Am looking for the nearest police station
+- How do I locate the closest police station?
+- can i find the parkside police station
+- I would like to book a popular, cheap restaurant.
+- I was in a car accident dispute and need help regarding it
+- I was just robbed and am looking for help. Can you give me the phone number for the police?
+- May I please have the number for the local police?
+- I need to speak with the police.
+- I'm looking for a place, I believe its official name is "Parkside Police Station".
+- i was robbed and need help
+- yes  I need information on how to proceed with a car accident dispute
+- I am looking for the Parkside Police Station
+- Could you tell me where to find the nearest police station and give the telephone number?
+- I need assistance in finding the Parkside police station
+- I was just in a car accident, can I please have the number for the police station?
+- I was just robbed and i need some assistance please.
+- where is the nearest police station?
+- can i find the nearest police station
+- Get me the address to the police station nearest me.
+- where is the nearest police station?
+- I've been robbed and need the police.
+- I was in an argument about a car accident and need help
+- Someone just robbed me, I need to contact the police.
+- I need to get to the nearest police station, can you assist me?
+
+## intent:book_taxi
+- I need to book a taxi to arrive by 06:45 to go to ADC Theatre.
+- I would like to book a taxi that should leave at 12:45 and depart from the Museum of Classical Archaeology.
+- I need a taxi from finches bed and breakfast to Ian hong house.  Please be here at 13:45.  What is your phone number?  What type of car?
+- I'd like to book a taxi from Ask, departing after 19:15. 
+- Hi, I'd like to book a taxi from A and B Guest House to Saint Catherine's College. 
+- I am needing a  taxi at the saffron brasserie after 14:45. Can you help me with that?
+- I want to book a taxi to leave after 09:15 at Old Schools.
+- I'm looking to book a taxi to Pembroke College for this evening.
+- I need to book a taxi going to sidney sussex college.
+- Please help me book a taxi to nandos
+- i want to book a taxi. The taxi should arrive by 23:00 and should go to holy trinity church.
+- I need a taxi to take me today to camboats
+- I am in need of a taxi to the cambridge punter please
+- i want to book a taxi. 
+- I need to book a taxi to come to Express by Holiday Inn Cambridge to take me to The Oak Bistro.
+- Can you set up a taxi to loch fyne from hakka for me?
+- I need to book a taxi to leave after 07:45 to take me to Bangkok City.
+- I would like to get a taxi to pick me up after 16:45.
+- help me get a taxi to the cambridge museum of technology please
+- Please have a taxi come pick me up at whale of a time after 16:00 today
+- I need to schedule a taxi to da vinci pizzeria from tandoori palace.
+- I need a taxi at Ian Hong House to leave by 14:45.
+- I need a taxi to come to backstreet bistro by 19:30.
+- I need a taxi to take me to Museum of Classical Archaeology to leave after 15:15.
+- I need to book a taxi.
+- I need to book a taxi from Kings college to Pizza express Fen Ditton sometime after 17:15. I need the car type and contact number please.
+- I need a taxi please. I'll be departing from grafton hotel restaurant
+- I would like to reserve a taxi from rosa's bed and breakfast.
+- I need to get to michaelhouse cafe by 12:45. Can you help me?
+- Yes, I'd like to book a taxi from clare college.
+- i want to book a taxi
+- I need a taxi to take me to fitzbillies restaurant
+- i want to book a taxi. The taxi should go to saigon city and should arrive by 24:45.
+- I would like to get a taxi from the Museum of archaeology and anthropology to the Soul Tree Nightclub
+- Can you book a taxi for 13:45 from the royal spice.
+- Hi, I would like to get a taxi from whale of a time. I'll need to leave after 22:45.
+- I need a taxi from nusha to thanh binh at 6:15, please.
+- I want to book a taxi from cambridge artworks. I need to leave after 18:00.
+- Yes, i would like you to book a taxi for arrival by 10:45 from the maharajah tandoori restaurant. 
+- Please book a taxi for me
+- I am looking for a taxi from yu garden arriving by 14:30
+- I'm at Jesus College and I need at taxi to arrive by 18:00.
+- I am wanting to book a taxi to go to Cherry Hinton Water Play. I want to make sure I arrive by 10:00.
+- Hi, i need to book a taxi to go to funky fun house. I need to leave after 8:45. 
+- I need a taxi from Peking restaurant to my hotel. 
+- Help me get a taxi to darrys cookhouse and wine shop
+- I'd like a taxi to riverboat georgina
+- I need a taxi today
+- I'd like for a taxi to pick me up after 13:00 today
+- I need a taxi to take me to Pipasha Restaurant to leave after 01:45.
+- Hi.  Can you book me a taxi to the Ugly Duckling from Dojo Noodle Bar?
+- I need a taxi arriving by 16:45.
+- I'd like to book a taxi to corpus  christi
+- Hello! I would like a taxi, please. I will by departing from Cambridge Arts Theatre and going to Peking Restaurant. 
+- I need a taxi to get me to holy trinity church no later than 15:30
+- I want a taxi to pick me up after 21:00 to take me to Little Saint Mary's Church.
+- I need to find a taxi departing from alimentum. 
+- I need to book a taxi departing from clown's cafe that should arrive by 23:00.
+- I need a taxi to go to mahal of cambridge
+- i want to book a taxi. The taxi should go to lynne strover gallery and should depart from parkside police station.
+- I need to book a taxi to the place, please.
+- I would like to book a taxi for after 01:15 pm and i will be going to milton country park.
+- i need a taxi leaving after 11:15 going to kohinoor
+- I need to book a taxi. I need it to arrive by 19:15 to go to park side pools.
+- I am looking for a taxi to the Stevenage train station. 
+- Please book a taxi for 1:15 to go to whale of a time.
+- I would like to book a taxi that would pick me up from sesame restaurant and bar that would pick me up at 14:00
+- Can you help me book a taxi to lan hong house, please?
+- Hi, i need to book a taxi. I need to go to cambridge corn exchange and need to arrive by 11:45. 
+- I need a taxi from london kings cross train station to the gonville hotel.
+- I need to book a taxi from warkworth house.
+- I need a taxi to come to cambridge museum of technology by 3:45.
+- i need a taxi by 8:15 going to the golden hous
+- Please book me a taxi to come to Rajmahal by 22:30.
+- I need a taxi to go to club salsa.
+- I need to book a taxi after 20:30. I need to go from ali baba to pipasha restaurant. Also I'll need the contact number and car type.
+- i want to book a taxi.
+- I'd like a taxi to the cafe jello gallery please.
+- I'd like to book a taxi to soul tree nightclub.
+- Can you book me a taxi to da vinci pizzeria?
+- I need a taxi from great saint Mary's church to cocum at 04:15 
+- I need a taxi departing from the gardenia.
+- Hello! I would like to book a taxi from hughes hall. 
+- I need a taxi to go to the hotpot.
+- Please have a taxi pick me up from riverboat georgina
+- I need a taxi to get me to magdalene college no later than 12:15
+- I'd like a taxi to the ugly duckling
+- Help me arrange for a taxi to tandoori palace
+- Can you find me a taxi from backstreet bistro? I can't leave until after 14:15.
+- i want to book a taxi. The taxi should depart from la Margarita and should go to riverboat Georgina.
+- Can you arrange for a taxi to pick me up at dojo noodle bar?
+- I am getting into birmingham new street train station and will be needing a taxi to take me to my hotel
+- I need a taxi, please. I need to arrive no later than 10:00, and I'm leaving from cambridge lodge restaurant.
+- I need a taxi to don pasquale pizzeria.
+- I need a taxi going to dojo noodle bar.
+- I would like to book a taxi to go to little saint mary's church after 11:00.
+- Can you help me book a taxi going from emmanuel college to churchill college?
+- I need a taxi please to express by holiday inn cambridge
+- Hello, I'm looking to book a taxi to Cocum.
+- I  need to book a 12:15 taxi at Charlie Chan. 
+- I need a taxi to pick me up at the Museum of Classical Archaeology to take me to What of a Time.
+- I am interested in booking a taxi. I need to leave from Primavera and go to Christ's College by 07:15. I also need the contact number and car type.
+- I am at Club Salsa and I need to book a taxi to leave after 06:15.
+- I would love to get your help in arranging taxi service from Rajmahal to the Worth House. Can you help me with that?
+- Can a taxi pick me up at carolina bed and breakfast?
+- I am looking to book a taxi that will leave from the missing sock
+- I would like to book a taxi departing from Hotel du Vin and Bistro leaving after 22:30.
+- I'd like a taxie from my home please.
+- Can you set up a taxi for me that will take me to williams art and antiques?
+- I want to book a taxi to pick me up Travellers Rest to take me to Finches Bed and Breakfast.
+- I'm looking for a taxi to museum of archaelogy and anthropology.
+- I'd like a taxi to take me to the missing sock and need to be there by 14:15
+- Yes, hello. I'd like to book a taxi to what I believe is a restaurant.
+- It would be great if you could help me reserve a taxi
+- I would like to book a taxi please.
+- I need a taxi to come by at 18:15 to take me to Meghna.
+- I would like to book a taxi departing from Leverton House and arriving by 07:30.
+- I would like to book a taxi to the gandhi.
+- I want to book a 05:45 taxi to come to Bishops Stortford Train Station.
+- I am at Sidney Sussex College. I need to book a taxi to take me to Ely Train Station.
+- I need a taxi to arrive by 17:30 at the cambridge punte.
+- I need to get a taxi out of holy trinity church. 
+- Can you get me a taxi that will transport me to scott polar museum by 02:15?
+- I would like to book a taxi leaving after 10:00 from the Cambridge book and print gallery.
+- I need to book a taxi to pick me up at Funky Fun House to go to Huntingdon Marriott Hotel. 
+- I'm at Kettle's Yard and need a taxi to pick me up by 19:30.
+- I would like to book a taxi to arrive by 13:45 to go to carolina bed and breakfast.
+- I need a taxi from peking restaurant.
+- I would like to book a taxi departing from Panahar.
+- Hello, I'd like to book a taxi from Restaurant Two Two to the Museum of Classical Archaeology. 
+- I need a cab. I'm at Arbury Lodge Guesthouse and want to go to Whale of a Time.
+- Can you get a taxi to take me from old schools to the cambridge chop house?
+- I need to book a taxi going to Rosa's Bed and Breakfast that leaves after 17:45.
+- I need a taxi, please.
+- Hello there. I was wondering if you could help me arrange for a taxi to take me from the Cherry Hinton Village Centre to La Raza?
+- Hi, I'd like to book a taxi from the Golden Wok to the Golden Curry please. 
+- I would like to book a taxi from stevenage train station and go to cineworld cinema. 
+- i want to book a taxi. The taxi should depart from india house and should arrive by 24:00.
+- Hello.  Can you book a taxi for me?  I need to travel from the Grafton Hotel Restaurant to Home From Home.
+- i want to book a taxi.
+- I need a taxi that leaves from funky fun house and arrives by 06:15
+- I need a taxi to pick me up at curry prince at 08:15.
+- I need to book a taxi leaving from The Oak Bistro please.
+- I need a tax to cambridge train station.
+- I need to book a taxi to leave after 12:45 to go to yippee noodle bar.
+- I need a tax arriving by 17:00.
+- I need a taxi to come after 19:30.
+- Hi! I need a taxi from little saint mary's church to trinity college. I sure hope you can help me!
+- Hello.  Can you find a taxi to pick me up at Darry's Cookhouse and Wine Shop sometime after 04:00?
+- Can you help me reserve a taxi to charlie chan?
+- I need to book a taxi to arrive at Ruskin Gallery by 21:45.
+-  i want to book a taxi.
+- I need to book a taxi to come by Saffron Brasserie by 03:30.
+- I'm at Saint John's College. I need a taxi to pick me up at 18:45.
+- I need a taxi to pick me up at Trinity college.
+- I need to book a taxi to arrive by 18:15 to take me to India House.
+- I need a taxi to Anatoilia. 
+- I would like a taxi by 16:30 to arrive at Nusha. 
+- I need a taxi to come to curry garden and take me to nandos.
+- I would like to book a taxi to leave after 11:00 going to Arbury Lodge Guesthouse.
+- I need a taxi. I am going to avalon and I need to leave after 16:15
+- Please reserve for me a taxi that will pick me up at cambridge arts theatre after 09:30
+- Hi! I would like to book a taxi that will take me to Pizza Hut Cherry Hinton. I will be departing from Parkside Pools.
+- Help me reserve a taxi to take me to kambar
+- I need a taxi to go to meghna.
+- I need a taxi to pick me up after 21:25 at The Cambridge Belfry.
+- I would like to book a taxi to leave after 11:45 to go to king's college.
+- I need a tax going to tang chinese.
+- I need a taxi leaving after 10:30.
+- I'd like a taxi to pick me up from ali baba
+- I'll be needing a taxi from nandos city centre
+- I need a taxi to pick me up at curry king.
+- Please find me a taxi? I'm at the el shaddai and I need to arrive by 21:15.
+- I need a taxi at 24:00 to take me to Milton Country Park.
+- I need to book a taxi from Kings College to the lensfield hotel. I need to arrive by 10:00 and need the car type and contact number. 
+- I really need to find a taxi, if you can help. I can't leave until after 7:00, though. I need to get to carolina bed and breakfast.
+- I need a taxi to arrive by 09:45
+-  i want to book a taxi.
+- I have to get to the gandhi by 09:15. Can you help me?
+- Can you help me with a taxi booking?
+- I need the phone number and location of the nearest Red Lobster in the downtown Cambridge area.
+- I would like a taxi to limehouse. I need to arrive by 7:15.
+- I need a taxi that departs from hobsons house and arrives by 13:45.
+- I need to book a taxi to take me to Riverside Brasserie at 11:15.
+- Hi I need a taxi to jesus green outdoor pool, but I can't leave until after 18:30. Can you help?
+-  i want to book a taxi. The taxi should leave after 21:15 and should depart from backstreet bistro.
+- Hey, I'm trying to book a taxi today
+- Hi, I need to get a taxi out of kohinoor. 
+- I need to book at taxi to take me from the Fez Club to the Cambridge Punter.
+- I need a taxi to go to saigon city and arrive by 11:00
+- I need to book a taxi from kirkwood house.
+- I would like to book a taxi to leave from cow pizza kitchen and bar after 17:15.
+- I would like to book a taxi to Royal Standard, leaving after 03:30
+- I need a taxi to the arbury lodge guesthouse.
+- I need a taxi to take me to Broughton house gallery
+- I need a taxi going to tandoori place.
+- Can I book a taxi today, please? I'm going to Avalon.
+- I'd like to be picked up today from alexander bed and breakfast
+- I need to get a taxi from Funky Funhouse.
+- I'll be requesting a taxi to golden house please
+- I need a taxi to take me to rajmahal. 
+- I need a taxi to arrive at the hotspot by 05:15. I need to leave from the junction. I also need the contact number and car type.
+- Good day. Might you be able to assist me with a taxi going to Corpus Christi leaving sometime after 08:45?
+- I need a taxi departing from huntingdon marriot hotel.
+- I need help today booking a taxi. 
+- Please book me a taxi to club salsa after 01:30.
+- Hiya, I need a taxi to get me to la margherita.
+- I need a taxi leaving after 21:00.
+- I need a taxi at Cambridge Museum of Technology to go to the Museum of Classical Archaeology.
+- I want to book a taxi to williams art and antiques from pembroke college.
+- Hi, I need a taxi from london liverpool street train station to gourmet burger kitchen
+- Send a taxi to the Parkside Police Station to go to Little Seoul
+- Reserve a taxi to jinling noodle bar for me
+- i  want to book a taxi. The taxi should go to the lensfield hotel and should depart from christ's college.
+- I would like a taxi to curry king please.
+- I want to visit the museum of archaelogy and anthropology and need a taxi to take me
+- I would like to book a taxi to hughes hall please.
+- I have plans to visit churchill college and need a taxi to do so
+- I need a taxi today. I'll want to leave after 05:30
+- I need a taxi to come to the place by 07:30.
+- book a taxi going to broughton house gallery to arrive by 6:15
+- I need a taxi to pick me up from the fez club. Can you help?
+- Hello, I need a taxi to pick me up at chiquito restaurant bar.
+- I want to book a taxi going to Christ's College departing from City Stop restaurant please. 
+- I'd like to arrange for a taxi please
+- I would like to book a taxi to the stevenage train station leaving gourmet burger kitchen.
+- I need to book a taxi from the junction and I need to arrive by 04:00.
+- I need to book a taxi to take me to The Junction. I need it here by 18:15.
+- I there! I hope you're having a nice day. Hi, I need ride or taxi from Lovell lodge to Holy Trinity Church around 10:30. What are my options?
+- I need a taxi by 20:45 to go to Cote.
+- i  want to book a taxi. The taxi should depart from pizza hut cherry hinton and should arrive by 01:30.
+- I need a taxi to come to broxbourne train station by 21:15.
+- I want to get a taxi to pick me up from the Cambridge train station please. 
+- I need to book a taxi please.
+- I need a tax departing from Kambar and arriving by 23:15.
+- I need to book a taxi to come to Da Vinci Pizzeria by 01:45.
+- Book me a taxi to come by 19:30 to take me to ADC Theatre.
+- I would like a taxi to Shiraz Restaurant, leaving after 2:45.
+- Can you book a taxi for me? I'll be departing from bangkok city.
+- I need a taxi to take me to finches bed and breakfast
+- I'd like for a taxi to take me to autumn house from travellers rest
+- I need to book a taxi to pembroke college from prezzo.
+- Can you have a taxi pick me up from el shaddai?
+- I am at Ballare. I need a taxi to take me to Hobsons House.
+- I'd like to reserve a taxi to take me to jesus green outdoor pool today
+- I need to book a taxi.
+- i want to book a taxi
+- Hi! I'd like to book a taxi from Kettle's Yard to Old Schools. 
+- I need to be picked up by a taxi at la margherita today sometime today after 14:00
+- I would like to book a taxi please. 
+- I want a taxi after 24:45 please
+- Please help me make a taxi reservation
+- Can you help me get a taxi to pizza express Fen Ditton?
+- I need a taxi to take me to my hotel today from saint catharine's college
+- I need a taxi after 21:45 to take me to jesus college. 
+- I'd like a taxi that leaves from yippee noodle bar and leaves after 11:30.
+- I'd like for a taxi to take me to gonville hotel today
+- I need a taxi to come get me from old schools to take me to loch fyne.
+- Can you arrange for a taxi that will take me from ugly duckling to ely train station?
+- I need a taxi from the missing sock and I need to get to my destination by 08:30. Can you help?
+- Please help me arrange for a taxi
+- I would like for a taxi to take me to london liverpool street train station, arriving no later than 17:45 please
+- i want to book a taxi.
+- Hi there! I'd like to book a taxi please. Can you help me with that?
+- I need to book a taxi plese
+- Hi, I'm looking for a taxi.  I need to leave from Golden House at 12:15.
+- Could you book me a taxi to Curry Garden?
+- I'll need a taxi to pick me up today after 02:45
+- I need a taxi to take me to cineworld cinema by 9:15
+- I need a taxi at 12:45 to take me to Ruskin Gallery.
+- Hi! I'd like to book a taxi to Travellers Rest, please, and I need to get there absolutely no later than 11:45.
+- i want to book a taxi. The taxi should leave after 05:45 and should depart from the missing sock.
+- i want to book a taxi. The taxi should go to da vinci pizzeria and should depart from the missing sock.
+- Please help me reserve a taxi from saint catharine's college
+- I'm heading to Club Salsa, and I need a taxi.
+- I will be needing a taxi from broxbourne train station
+- Hi, I need to book a taxi, please? I need to leave sometime after 10:30.
+- I need a taxi to come to royal standard and take me to maharajah tandoori restaurant.
+- I need a 16:30 taxi. 
+- I would like help booking a taxi please. I will need the Taxi to pick me up at the Peterborough Train Station at 18:45
+- I need to book a taxi to arrive by 13:45 to take me to La Margherita.
+- I need a taxi from avalon to hamilton lodge at 19:30, please.
+- I need to book a taxi please.
+- I would like to book a Taxi to Junction, leaving after 02:45
+- I need a taxi to come at 1:45 to rice boat. 
+- I need a taxi to leave after 03:00
+- I need a taxi to take me in time for my reservation to tang chinese today
+-  i want to book a taxi.
+- I need to book a taxi departing from royal standard.
+- i want to book a taxi.
+- Hi, I need a tax to queens' college please.
+- I want to go see a movie at cineworld cinema today. I'll be needing a taxi to get there.
+- I need a taxi to go to cambridge punter.
+- Can you help me book a taxi please?
+- Can you arrange for a taxi to bring me to kohinoor?
+- Please book me a taxi to arrive by 12:45 to the city stop restaurant.
+- I want to get a taxi and leave at 345. I need to go to saigon city.
+- I need a taxi from thanh binh.
+- I want to book a taxi to arrive by 02:15 to take me to Sesame Restaurant and Bar.
+- I'd like to book a taxi, please. I need to get from the lensfield hotel to peking restaurant.
+- I need a taxi to take me to the lensfield hotel. 
+- i need a taxi pick up at london kings cross train station going to saigon city
+- Can you help me get to ely train station by 12:00?
+- Hi, I'd like to book a taxi from Hakka to Sidney Sussex College. 
+- I need a taxi that leaves from kettle's yard and leaves after 15:15.
+- I'm trying to get a taxi please
+- I need a taxi today after 05:45
+- I need a taxi to take me to Thanh Binh and I should arrive before 22:15.
+- I need to book a taxi to arrive by 09:00.
+- I'd like to book a taxi to depart from Maharajah Tandoori Restaurant. 
+- I need a taxi to take me to the cambridge punter please
+- I need a 04:00 taxi at the Cambridge Lodge Restaurant.
+- I need a taxi to leave at 3 45 and get me from the cambridge belfry
+- Can you book me a taxi to arrive by 23:30? Oh, and I am departing from wandlebury country park.
+- I'd like to book a taxi to the scott polar museum
+- I need a Taxi, I want it to go to carolina bed and breakfast, arriving for my reservation at 4:00.
+- I need to book a taxi.
+- Hi, could you help me find a taxi out of cocum?
+- I want to take a taxi from arbury lodge guest house to the varsity restaurant.
+- I want a taxi to come to The Junction to take me to Kambar.
+- I need to book a tax departing from gandhi.
+- I need a taxi departing from tang chinese.
+- I need a taxi arriving by 20:00.
+- Can you help me get to zizzi cambridge after 22:45?
+- I need a taxi to go to a and b guest house and arrive by 03:45.
+- I need to book a taxi to take me from Bangkok City. I need to leave by 19:30.
+- I need a taxi at cherry hinton hall and grounds at 2:45.
+- I need a taxi from bedouin that will leave after 20:00
+- Can you book me a taxi to riverside brasserie?
+- I need a taxi to pick me up at Regency Gallery and take me to Don Pasquale Pizzeria.
+- I would like to book a taxi from the hamilton lodge to restaurant one seven.
+- i want to book a taxi. The taxi should depart from broxbourne train station
+- I need a taxi departing from leverton house.
+- Hello. I would like for a taxi to bring me to the cow pizza kitchen and bar by 04:30 please
+- I'm needing to find a taxi.  I need to leave after 13:00 and I'm leaving the pizza hut fen ditton.
+- Can you help me get a taxi to the oak bistro?
+- Can you help? I'm in need of a taxi. I'm trying to get from hobsons house to royal spice.
+- I would like a taxi departing from Warkworth House and arriving at Jinling Noodle.
+- Yes, I'd like to book a taxi please!
+- Hi, I need a taxi to gourmet burger kitchen going from hamilton lodge!
+- I'd like to book a taxi. I need it to arrive by 14:15 and my destination is Cambridge Lodge Restaurant.
+- Please help me with a taxi
+- I would like a taxi please
+- Book a taxi
+- Hi, I'd like to book a taxi leaving from Archway House, please.
+- I'd like to book a taxi to take me to cineworld cinema from gonville hotel
+- I am wanting to book a taxi.  I am going to Sitar Tandoori and want to leave after 19:30.
+- I need a taxi departing from golden wok.
+- I need a taxi to pick me up after 04:15
+- I need a taxi going to alexander bed and breafast.
+- I need to book a taxi from bridge guest house to sidney sussex college.
+- I want help booking a taxi
+- I need a taxi to come to gallery at twelve a high street by 4:00.
+- I need a taxi from Kings Lynn station at 5:15, going to HK Fusion, please.
+- Taxi to de luca cucina and bar please
+- You can help by getting me a taxi to curry king
+- I need to book a taxi to come to Nandos City Centre. I need it here by 04:00. 
+- I need a taxi from The Man on the Moon to Bangkok City, please.
+- Hi.  I would like to book a taxi to the Chiquito Restaurant Bar.  I will need to be picked up at the Ely Train Station.
+- I need a tax to curry garden.
+- Yes, can I get a taxi?  I want to leave Lock Fyne and go to King's College.
+- Get me a taxi to hughes hall please
+- I need a taxi to go to the gandhi to arrive by 18:00
+- Hi, I'd like to book a taxi from London Liverpool Street to Club Salsa.
+- I need a taxi to pick me up from carolina bed and breakfast and take me to ali baba.
+- I need to book a taxi.
+- I need a taxi to come to rajmahal and want to go to kohinoor.
+- Hi, I am looking to book a taxi departing from Loch Fyne after 11:00.
+- Good morning! Can you help me get a taxi to take me from Clare College to Cambridge that gets there by 18:00?
+- i  want to book a taxi. The taxi should go to little saint mary's church and should leave after 05:45.
+- I need a taxi to the good luck chinese food takeaway. 
+- I need to book a taxi to the Bridge Guest House please.
+- Hi I want to book a taxi from cocum leaving after 9am.
+- I need to book a taxi to take me from Mumford Theatre to go to Darry's Cookhouse and Wine Shop.
+- I need to be picked up from pizza hut city centre after 04:30
+- I need to book a taxi from riverside brasserie.
+- I need a taxi to pick me up at The Good Luck Chinese Food Takeaway to take me to Alpha-Milton Guest House.
+-  i want to book a taxi. The taxi should go to riverside brasserie and should arrive by 19:30.
+- I need a 19:15 taxi to take me to Avalon.
+- i want to book a taxi.
+- Hi.  I would like to have a taxi arrive for me at the Arbury Lodge Guesthouse by 15:00.  Can you reserve that for me?
+- I need a taxi arriving by 18:15.
+-  i want to book a taxi. The taxi should leave after 21:15 and should depart from backstreet bistro.
+- I need a taxi to arrive at 09:00 at the Riverboat Georgina.
+- Hi, I'm needing a taxi, leaving cafe uno and I need to arrive by 24:30
+- i want to book a taxi.
+- I need to book a taxi from clowns cafe.
+- I need a taxi to pick me up at Ashley Hotel to leave after 10:45.
+- I need to book a taxi to leave after 17:45 to go to Nandos.
+- I need a taxi departing from avalon.
+- I need to get to bangkok city by 12:00 today. Can you help?
+- I would like a taxi from Saint John's college to Pizza Hut Fen Ditton.
+- I want to book a taxi after 14:00 and would like to the rice house.
+- I need a taxi to go to anatolia
+- i want to book a taxi. The taxi should leave after 02:30 and should go to Norwich train station.
+- Please book me a taxi to take me from Aylesbray Lodge Guest House to the London Liverpool Street Train Station.
+- Can you help me out with a taxi booking?
+- i need a taxi arrive 5:45 destination restaurant two two
+- I need a taxi. I'll be departing from la raza.
+- I'd like a taxi please. I'll be wanting it to leave after 15:45
+-  want to book a taxi
+- I need a taxi, please.
+- Help me reserve a taxi please
+- Book me a taxi to vue cinema
+- I need to book a taxi from Saint Johns Chop House to Williams Art and Antiques please.
+- I need a taxi going to the varsity restaurant.
+- I need to get a taxi to take me to efes restaurant please.
+- I want to take a taxi to eraina
+- I need to get a taxi from emmanuel college
+- I need a taxi to pick me up from saigon city please
+- I need a taxi today arriving at 21:00.
+- Can you help me find a taxi to old schools?
+- I need a taxi to arrive by 16:45 to take me to the Parkside Police Station.
+- I need to book a taxi to come pick me up by 10:30 to take me to Midsummer House Restaurant.
+- I need to book a taxi to take me to Williams Art and Antiques. I need to leave after 24:30.
+- I need a taxi arriving by 23:30.
+- Hi I need a taxi to pick me up at the Hamilton Lodge and take me to the funky fun house.
+- I need a taxi to take me to yippee noodle bar by 9:45
+- I need to book a taxi departing from parkside police station.
+- Can you find me a taxi to jesus green outdoor pool? I need to be there by 02:15.
+- Can you book me a taxi from Avalon to De Luca Cucina and Bar?
+- I'd like a taxi to take me to ruskin gallery
+- I would like to book a taxi that will depart from Rice Boat and should leave at 9:30.
+- I need a taxi at Jesus College to leave after 10:00.
+- You want to book a taxi. The taxi should arrive by 17:30 and should go to la mimosa.
+- I need a taxi to leave from the gallery at twelve a high street to arrive by 15:30
+- Hi, can you help me book a taxi to go from Jinling Noodle Bar over to Tenpin? 
+- I'd like help with a taxi, please. I need to be picked up at museum of classical archaeology and should arrive by 9:00. Can you help?
+- I need a taxi. I'll be departing the Fitzwilliam museum and need to arrive by 20:15
+- Please help me book a taxi
+- I need a taxi at Peking Restaurant to take me to Royal Standard.
+- I want a taxi to saint barnabas press gallery
+- i want to book a taxi. The taxi should leave after 21:15 and should depart from backstreet bistro.
+- I need a taxi to arrive by 13:15 to primavera
+- I need to taxi from Ian hong house.
+
+## intent:find_restaurant
+- Can you help me find a restaurant called little seoul?
+- I would like to find a restaurant in the east part of town that serves gastropub food.
+- Hello.  Can you please help me find a nice restaurant that serves Korean food?  I need to know the address too.
+- Know anywhere that has european food?
+- I'm looking for an Italian restaurant in the east.
+- I am looking for an expensive restaurant in the centre
+- Hi, I'm looking for a Basque restaurant in the west part of town.
+- I'm looking for an inexpensive African restaurant.
+- I am looking for an expensive French restaurant.
+- I am looking for a restaurant in the south.
+- I am looking for a restaurant called the Slug and Lettuce.
+- I need a restaurant in the east part of town that serves world food. 
+- I am looking for a restaurant. The restaurant should be in the south and should be in the cheap price range
+- I would like to find the Anatolia restaurant please.
+- I am looking for a Chinese place in the centre.
+- Hello. I am looking for a recommendation for a place to eat.
+- I want a jamaican food restaurant in the centre part of town.
+- I'm trying to find an Irish restaurant that can provide me with some unique fine dining.  I expect this to be expensive, can you give me some options?
+- I am looking for an Eastern restaurant, medium price
+- I'm looking for a restaurant. The restaurant should be in the cheap price range and should be in the north.
+- I need a really inexpensive restaurant on the east side.
+- Hi there. I am hoping you could help me find a british restaurant in town. 
+- Is there an expensive African restaurant in town.
+- I'd like to dine for expensive british cuisine.
+- Yes can you tell me something about the Cow Pizza Kitchen and Bar?
+- Hi, I'm looking for a place with Tuscan food in any price range.
+- I want a moderately priced restaurant in the north part of town. What is the address?
+- Hello. I'm looking for a cheap restaurant in the east part of town.
+- Can you help me find a restaurant in the south that doesn't cost a lot of money. In fact, I need one that's quite inexpensive.
+- Hello, I am looking for a Lebanese restaurant in the centre of town. 
+- I'm looking for an Indian restaurant, preferably in the centre of town.
+- I am looking for a asian restaurant in the centre
+- I'm looking for mid range spanish restaurants, can you help me?
+- I am looking for an expensive restaurant that serves Portuguese food. Please also provide the phone number.
+- I am looking for a danish restaurant
+- I would like to find a moderately priced restaurant in the west part of town. 
+- May I have information for an italian restaurant in the east part of town? 
+- I am looking for international food anywhere in town. 
+- I'd like to dine at a restaurant in the west part of town. Can you help me find one?
+- Hey, could you tell me if there are any panasian restaurants in the east side of town?
+- Hello, I'm trying to find an expensive asian oriental restaurant. Can you help me find one?
+- I am looking for an expensive restaurant that serves Indonesian food.
+- HI, I am looking for a cheap restaurant in the south of the city.
+- Is there a moderately priced restaurant in the north part of town? 
+- I am looking for a restaurant that is in the expensive price range and in the south part of town.
+- I'm looking for a place to dine on the south side of town. Please find a place that's in the expensive price range.
+- I want to find a restaurant in the centre part of town and serves australasian food.
+- I am looking for a cuban restaurant in the north part of town. 
+- I would like to find an expensive restaurant in the centre of town please.
+- A moderately priced restaurant in the east part of town
+- I'm looking for a seafood restaurant in the moderate price range. 
+- I'm looking for a particular restaurant. Its name is called rice boat.
+- Please find me a restaurant in the centre part of town.
+- I want a restaurant that is moderately priced and located in the south.
+- I want to find a moderately priced restaurant serving european food.
+- I want to find a cheap restaurant serving swedish food
+- I want to find a moderately-priced restaurant in the centre.
+- I am looking for a cheap restaurant in the centre of town.
+- Yes. I am looking for a moderately priced restaurant in the west part of town.
+- I am looking for a cheap gastropub restaurant in the centre of town
+- I want something that's moderately priced. Any type of food.
+- I want to find a restaurant in the centre part of town and serves barbeque food. If not then how about modern european food?
+- I'm looking for a chinese food restaurant in the centre. 
+- I want a restaurant in the north part of town and serves british food.
+- I want something in the north part of town with swedish food.
+- i am looking for a place to dine. The restaurant should be in the expensive price range and should serve european food.
+- I am looking for a place to dine.  The restaurant should be expensive and should serve Chinese food.
+- I am looking for a particular restaurant. Its name is called prezzo
+- Hello, I am looking for a moderately priced restaurant on the east part of town. 
+- Hi.  This might be a long shot, but can you help me find a restaurant that serves Swedish food?  I don't care about price.
+- Hello, I am looking for a restaurant that serves Spanish food in the centre of town. 
+- I want to find a place that serves australasian food.
+- Im looking for a restaurant in the north part of town in the cheap price range
+- Hey, I'm up south can you give me a place to eat?
+- I am looking for a restaurant serving modern american food in the moderate price range.
+- I am looking for an expensive restaurant in the city center
+- I am looking for a Thai restaurant - any area will do.
+- I need an expensive place to dine in the center of town.
+- A moderately priced restaurant in the south, please.
+- I want to find a cheap restaurant in the north part of town. What is the phone number?
+- I'm looking for a nice expensive restaurant in the south part of town
+- I would like a restaurant in the south part of town that serves italian food
+- I'm looking for a gastropub.
+- Can you recommend a moderately priced restaurant in the South part of town?
+- I'm looking for a place to eat.  I would like it to be an expensive restaurant in the centre.
+- Is there a cheap restaurant serving belgian food? 
+- I want the phone number to a moderately priced restaurant with Spanish food.
+- I would like a restaurant in any area that serves scandinavian food
+- I'm looking to go to dinner tonight and am in the mood for some good Bistro in the centre of town, can you find me some options?
+- I'm looking for a restaurant serving barbeque in the centre of town. 
+- Hello I would like to find a restaurant in the west part of the city that costs a moderate amount.
+- I need a restaurant in the Centre moderate priced
+- Can you help me find a restaurant by the name of Bangkok City?
+- Hi.  I'm looking for a moderately priced restaurant. 
+- I'm looking for a place to dine.
+- I am looking for a restaurant that is cheap and in the south part of town.
+- i would like an expensive restaurant that serves irish food
+-  i am looking for a place to dine. The restaurant should serve Chinese food and should be in the center.
+- I want to eat at an expensive gastropub restaurant
+- I'm looking for a restaurant in the south that serves international food.
+- I am looking for a particular restaurant. Its name is called travellers rest
+- I am looking for the restaurant Nandos.
+- Can you find me an italian restaurant in the centre?
+- I am looking for a restaurant that is expensive and in the west
+- Hello! I would like to go to a restaurant in the east, please.
+- I would like an expensive restaurant in the east part of town
+- I want a restaurant in the north part of town and serves chinese food. What is the phone number?
+- Hi! Can you help me find a particular restaurant?
+- I want to find an expensive restaurant serving christmas food.
+- Hello, I am looking for a restaurant that serves African food. 
+- I need a restaurant that serves european food please
+- Is there anything cheap in the centre of town?
+- I am looking for a place to dine. The restaurant should be in the centre and should be in the moderate price range.
+- Hi.  I'm trying to find a restaurant that serves Welsh food.  Can you help me?
+- Hello, I am looking for a moderately priced restaurant on the east side of town.
+- Hello, I am looking for an expensive restaurant that serves european food.
+- I'm looking for a restaurant. The restaurant should serve italian food and should be in the expensive price range.
+- l am looking for a restaurant. The restaurant should serve gastropub food and should be in the center.
+- Hi, Are there any expensive Indian restaurants in town?
+- What restaurants are on the east part of town?
+- Hi I need to find a place to dine serving Vietnamese food in the cheap price range.
+- Are there any expensive places to eat in the east?
+- Hello, I am looking for a restaurant that serves Thai food. 
+- I am looking to eat moderate priced British food 
+- I want a restaurant that serves international cuisine.
+- Hi, I'm looking for an expensive restaurant.
+- I'm looking for a moderately priced restaurant to eat at in the north.
+- I'm looking for a place to dine that serves gastropub food. I want it to be expensive. 
+- Hi.  I am hoping you can help me find a cheap Indian restaurant.
+- I want a restaurant with corsica food please.
+-  I would like to find somewhere with expensive Kosher food.
+- I am looking for a cheap restaurant in the North part of town. I will need their address.
+- I would like a cheap restaurant in the north part of town, please.
+- I am looking for a restaurant. The restaurant should serve world food and should be in the centre
+- I'm looking for a restaurant in the east part of town that serves cantonese food. 
+- Yes I am looking for information on Michael House cafe.
+- I want British food that is moderately priced.
+- I don't care about the price range. Just recommend me a restaurant that serves European food. I would also like to get the phone number and directions.
+- I am looking for an expensive restaurant in the centre
+- Can you help me find an expensive asian oriental restaurant to dine at?
+- I would like a restaurant in the north part of town that serves korean food
+- Im looking for a restaurant in the north part of town in the cheap price range
+- Hello, I am looking for a restaurant by the name of Royal Standard. Do you know where it is?
+- I'm looking for and expensive restaurant in the east part of town. Ask for address, phone number and type of food.
+- I want a restaurant in the north part of town and serves austrian food.
+- I am  looking for a restaurant. The restaurant should be in the west and should be in the expensive price range
+- Hello.  I'm trying to find a restaurant that serves Swiss food.  Can you recommend anything to me?
+- Can you find me a restaurant that is located in the centre and is in the moderate price range?
+- I want expensive Korean food.  I want the address and area of town.
+- I'm looking for a place to dine. The restaurant should be in the centre and should serve mediterranean food.
+- I'm looking for the information on a restaurant called Saigon City, can you provide me with their info?
+- Hello, I am looking for a restaurant that serves Japanese food. 
+- Hello, I am looking for a moderately priced restaurant on the south side of town. 
+- Could you recommend a restaurant that serves french food?  I'll need the address, phone number and postcode.  Thank you.
+- I am looking for a restaurant that serves Irish food and is in the expensive price range.
+- I'd like to find an expensive place to dine in the south.
+- Hello.  Can you please recommend a Korean restaurant for me?
+- I would like a moderately priced restaurant that serves brazilian food
+- I would like a cheap restaurant that serves portuguese food
+- I'm needing a place to dine. It needs to be an expensive Brazilian place. 
+- I'm looking for a cheap restaurant in the west area. 
+- I want to find a restaurant serves corsica food please. 
+- I would like an expensive restaurant that serves afghan food
+- Hi, I'm looking for a restaurant in the moderate price range that sells north indian food.
+- Can you help me find a restaurant by the name of Loch Fyne?
+- I am looking for the addresses of each of the moderately priced restaurants in the south part of town.
+- Looking for a restaurant in the east side that serves basque food.
+- I am looking for a Japanese restaurant in the centre of town.
+- I would like a moderately priced restaurant that serves english food
+- Please recommend me an expensive restaurant that serves afghan food.
+- I'm looking for a cheap restaurant in the north part of town.
+- Is there a latin american restaurant in the center?
+- I am looking for a restaurant. The restaurant should be in the south and should serve french food
+- I'm trying to find information on a particular restaurant, it is called la margherita.
+- I'd like to find a restaurant that serves swiss food. 
+- I want to eat some north american food
+- I'm looking for a high end restaurant in the centre, can you help me out?
+- I am looking for a cheap restaurant in the south part of town.
+- I am looking for Ian hong house
+- Please provide me information on the restaurant one seven.
+- I would like a moderately priced restaurant in the south part of town
+- Looking for a restaurant on the South part of town?
+- I need to find an expensive restauant that's in the south section of the city.
+- I am looking for an expensive restaurant that serves Korean food. I would like the address and area, please.
+- Is there a cheap place in the north part of town? 
+- moderately priced restaurant in the west part of town please
+- I'm looking for a restaurant in the west side that's in the moderate price range. 
+- I'm interested in a place called restaurant one seven. What can you tell me about it?
+- I am looking for a restaurant in the center of town that serves European food.
+- I am looking for a restaurant that is expensive and is in the east part of town.
+- Hello, I am looking for an expensive restaurant that serves Australian food. 
+- I need the phone number and post code of a restaurant in the east part of town.
+- I want to find a cheap restaurant in the north part of town.
+- Cheap restaurant in the north. address and phone number, please.
+- I want to find an expensive restaurant 
+- I am looking for a moderate priced restaurant in the south part of town. Could you recommend me three restaurants? 
+- I need to find a restaurant that serves korean food located in the centre of town. 
+- I need an expensive restaurant in the centre.
+- I need the address and phone number of a restaurant in the south part of town.
+- Would you be able to recommend an expensive restaurant that serves Panasian food?
+- I want to find an expensive restaurant in the east part of town.
+- I would like a moderately priced restaurant in the north part of town
+- What's a good mid price restaurant?
+- I am looking for a restaurant that serves Mexican food and located in the south part of town.
+- Hi! I'm looking for a cheap restaurant in the north, any type!
+- I would like a moderately priced restaurant that serves lebanese food
+- Hi, I'm looking for restaurants in the area that serve British cuisine. Could you give me some suggestions?
+- I would like a cheap restaurant.
+- I am looking for a moderately priced restaurant in the west part of town. 
+- I am looking for a restaurant that is in the cheap price range and in the east part of town.
+- I am looking for a restaurant that serves indian food.
+- I need a South restaurant with british food.
+- Could you help me find an expensive asian oriental restaurant?
+- I'm looking for a restaurant. The restaurant should be in the centre and should be in the cheap price range.
+- I want to find a restaurant in the north part of town that serves christmas food.
+- Are there any restaurants serving middle eastern food?
+- Hi, I'm looking for a cheap austrian restaurant.
+- Hello, I am looking for a moderately priced restaurant that serves fusion food. 
+- Hi! I need to find the restaurant Pizza Express Fen Ditton.
+- Hi, I'm looking for good Chinese food on the west side. 
+- Can I get the address and cuisine type of a  moderately priced restaurant in the east part of town?
+- I'm looking for a British restaurant on the west side.
+- Hi, I am looking for a cheap Italian restaurant please.
+- I am looking for a moderately priced restaurant.
+- I want to find some international food in the east part of town.
+- I would like a moderately priced restaurant in the east part of town
+- Yes, may I have the address for restaurants in the south part of town. Preferably something moderately priced. 
+- Hello. I would like to know if you serve African food. If you do, can I please get the address, phone number and postcode of the venue?
+- Can you help me find a good thai restaurant in the west?
+- I am looking for a restaurant that serves Caribbean food and in the moderate price range.
+- I need assistance finding a restaurant that is cheap and serves british food, can you help me?
+- I'm looking for an Australian place to dine in. I need it to be cheap.
+- Hello, I am looking for an expensive restaurant that serves Lebanese food.
+- I want to find a moderately priced restaurant in the south part of town. What is the phone number and address?
+- I'm looking for a specific restaurant. It's called india house. Can you help with this?
+- I'm looking for a restaurant that serves swiss food. 
+- I am looking for a moderately priced restaurant in the south part of town.
+- looking for a place to dine. The restaurant should serve british food and should be in the expensive price range.
+- I am looking for a restaurnt in the west end that isn't too high priced.
+- I would really like to find a Basque restaurant on the west side. Does that exist?
+- I would like a restaurant in the centre of town that serves caribbean food
+- I'm looking for a good restaurant anywhere in town serving French food. Could you please give me their phone numbers?
+- I want a cheap portuguese restaurant. Give me their address, phone number, and area, please.
+- Can you please help me find a cheap italian restaurant?
+- I'm trying to find a moderately priced restaurant in the north part of town.  
+- I am looking for a moderately priced restaurant that is in the east part of town.
+- I would like a cheap restaurant in the west part of town
+- I am looking for a restaurant that serves chinese food in the moderate price range. 
+- Hi. Can you help me find an inexpensive restaurant on the West side of town?
+- I'm looking for a moderately priced restaurant in the east part of town.
+- I'm looking for a place that has Chinese food.
+- I would like a moderately priced restaurant in the north part of town.
+- I'm looking for a restaurant in the center that serves Turkish food
+- I am looking for a restaurant in the centre that serves modern European food.
+- I'm looking for some info on kohinoor.
+- I'm looking for a mexican restaurant in the south part of town. 
+- I am looking for a place to dine. The restaurant should be in the east and should be in the moderate price range
+- Can you find me a Chinese restaurant please?
+- I'd like something moderately priced please.
+- Hi. I'm looking for an Italian restaurant in the centre of the city?
+- Can you help me find a moderately priced place to eat located in the centre?
+- Hello, I am looking for a venetian restaurant in the centre of town. 
+- I want to find a cheap restaurant in the north part of town. What is the address and food?
+- I'm looking for cheap food in the centre.
+- Are there any restaurants that serve international food?
+- I am looking for a moderately priced restaurant in the north part of town.
+- I'm looking for a place to eat, maybe Austrian food.
+- I am looking for a particular restaurant. Its name is called royal standard
+- I need help finding an expensive restaurant in the centre, can you help me please?
+- Can you find an expensive restaurant that serves venetian food?
+- Don't care about price, just looking for thai food.
+- I am looking for a restaurant serving spanish food, please. 
+- I'm going on a date and need an expensive restaurant on the north side of town.
+- I am looking for a restaurant.
+- Good Morning, Can you help me locate a moderate priced restaurant in the centre part of town please?
+- Can you help me find somewhere to eat in the centre?
+- Hi, I'd like to find a moderately priced steakhouse. 
+- I need help finding a restaurant please.
+- Could you please help me find an expensive restaurant in the south part of town?
+- Hi, I am looking for a restaurant in the south that serves Tuscan food.
+- I'd like a moderately priced restaurant in the east part of town.
+- Hello, I'm looking for a hotel called eraina. Can you help?
+- I would like a moderately priced restaurant in the north part of town
+- Hello!  I'm looking for a nice restaurant that serves Scottish food.  Can you recommend one?
+- Find me expensive restaurant that serves international food.
+- Is there a moderate restaurant in the centre of town?
+- I would like a cheap restaurant in the north part of town
+- I'd like information about a restaurant in South that serves English food.
+- I am looking for an expensive Australian place. 
+- Good Morning, are there any expensive restaurants in the city centre?
+- I am looking for a restaurant serving vegetarian food. 
+- I am looking for a cheap restaurant in the centre.
+- I am wanting an expensive restaurant that offers African food. What is their number?
+- Can you help me find a cheap restaurant in the centre?
+- I need a cheap restuarant. Probably in the west part of town
+- I am looking for a particular restaurant. Its name is called cafe uno.
+- I'm in the mood for swedish food, but I want something in the centre of town.
+- I would like a restaurant in the centre and in the moderate price range.
+- I am looking for a cantonese restaurant in the north part of town. 
+- how about a turkish restaurant?
+- I would like a restaurant that serves irish food
+- I'm looking for an expensive vietnamese place to eat, can you help me find one?
+- I'm looking for an expensive restaurant to go to. 
+- I am looking for african food
+- I want to find an expensive restaurant in the north part of town.
+- I'd like to get moderately-priced Polynesian food.
+- I want something in the north part of town. Moderately priced.
+- I want to eat gastropub food.
+- I am looking a place serving gastropub in the moderate price range. 
+- I am looking for an expensive Chinese restaurant in the south.
+- I am looking for information on The Varsity restaurant.
+- I'd like to find a restaurant that serves Chinese food in the south please.
+- I would like some Lebanese food in the west part of town. Are there any available?
+- I am looking for a particular restaurant. It is called pizza hut city centre.
+- I'm looking for a moderately-priced place to eat.
+- I'm looking for a restaurant in the moderate price range in the east part of town
+- Can you help me find a Chinese restaurant please?
+- Get me a restaurant that serves european food.
+- Please find a cheap restaurant in the east part of town.
+- I would like a barbeque restaurant.
+- I would like a restaurant that serves swiss food
+- I am looking for a restaurant that serves Japanese food. I don't care about the price range.
+- is there a portuguese food restaurant?
+- Are there cheap places to eat in the centre part of town?
+- I want to find a cheap restaurant and serves australasian food.
+- Hi.  Can you please help me find a restaurant that serves food from singapore ?  I'd like it to be on the East side of town if possible.
+- Can you help me find and expensive restaurant in the west?
+- I'm looking for an austrian restaurant.
+- I'm looking for an expensive restaurant that serves italian food. 
+- is there a moderate priced restaurant?
+- I need a moderately priced restaurant in the centre.
+-  I'm looking for a place to dine. The restaurant should serve indian food and should be in the centre.
+- I'm looking for a restaurant called Mahal of Cambridge.
+- Hello. Can you help me find the address of an inexpensive restaurant in the south part of town?
+- Do you know of any moderately priced restaurants in the north part of town? I'll need the address and phone number.
+- I am looking for a Cuban food place, in the east. 
+- I am interested in a restaurant located in the north part of town that specializes in Indonesian food, please.
+- Hello, I'm looking for an expensive indian restaurant.
+- one in the East part of town
+- Please find me a corsica restaurant.
+- Yes, I would be interested in the British food fare that is available. Just a nice local restaurant with good expensive food would be nice. Thank you.
+- I am starving!
+- I am looking for a cheap restaurant.
+- Yes, I'd like some information on finding a particular restaurant. The restaurant should serve a variety of Jamaican food and ideally I'd like it to be located in the south please.
+- Hi. I am trying to find some information on a restaurant called India House.  Have you heard of it?
+- I'm looking for a restaurant on the north side of town that serves tuscan food.
+- I am searching for a restaurant serving vietnamese food in the centre of town. 
+- can you tell me if there is a moderately priced restaurant serving spanish food anywhere in town? 
+- I need to find a restaurant in anatolia
+- May have the name of a moderately priced restaurant in the south part of town? 
+- Hello, I am looking for an expensive restaurant that serves vegetarian food. 
+- I would like a restaurant in the centre of town that serves thai food
+- I am going to be on the north side of town and would like a recommendation to a high end restaurant for dinner.
+- I want to find a restaurant in any area and serves spanish food. What is the phone number and address?
+- Hello.  I'm trying to find an inexpensive restaurant that serves Moroccan food.  Can you help me?
+- Hi, i am looking for a indian restaurant on the west side of town. 
+- Im up north, whats the address for a mediterranean place around here?
+- I don't care about price range, find me an european food restaurant, please.
+- Hello! I'm looking for information on Restaurant One Seven.
+- I'd like to find a place to dine in the west that serves modern american food.
+- I want to find some information on da vinci pizzeria
+- looking for a restaurant in the expensive price range
+- I'm interested in finding a modern European restaurant for dinner with a moderate price range on their menu.
+- I would like a moderate european place to eat. 
+- I am looking for a restaurant that serves british food in the west area.  Can you locate one for me please?
+- I'm looking for a restaurant that serves kosher food in the west side.
+- I'd like to find an east side restaurant that is expensive. 
+- Hi, I am looking for a place to eat in the centre of town. 
+- I want to find a seafood restaurant in the centre
+- Is there any place that serves BBQ around here?
+- Yes I would like to find a restaurant that is in the cheap price range on the west side of town.
+- I am looking for a restaurant serving persian food.  
+- I'm looking for a cheap restaurant that serves world food?
+- Hi, I am looking for a north Indian restaurant in the town centre?
+- I am looking for a particular restaurant called city stop restaurant.
+- Can you find me a restaurant in the north part of the city?
+- I am looking for Golden House restaurant.
+- I want to visit an expensive restaurant in the south part of town. I need the address, phone number, and type of food.
+- I am looking for a place to dine. The restaurant should be in the east and should serve swiss food
+- I'd like an expensive restuarant in the south part of town.
+- I'd looking for a good restaurant on the east side.  I'd prefer the moderate price range, if possible.
+- I am searching for a Lebanese restaurant in the east part of town. 
+- I need to get to a restaurant known as the Lucky star
+- Are there any British restaurants in the centre?
+- Can you recommend me a moderate priced restaurant in the north part of town?
+- Hello, please find me a place to dine in the north area that serves polish food.
+- Is there a cheap swedish restaurant in town?
+- I am looking for an expensive restaurant serving mediterranean food. 
+- Are there any Indonesian restaurants in the centre?
+- Hi there. I'm trying to impress my girlfriend and was wondering if there might be a really nice british restaurant in town?
+- I need a place to eat that serves traditional food in the centre.
+- Could you help me find an Austrian restaurant please? 
+- Hello, I am looking for a moderately priced restaurant on the north side of town. 
+- I would like to find a restaurant in the expensive price range that is located in the city center.
+- I am looking for a place to dine. I would like european food in the expensive price range.
+- I could really use something to eat.
+- I'd like to find information for the restaurant called The Missing Sock. 
+- I am looking for a restaurant in the centre serving modern European food.
+- I need you to help me find an expensive restaurant to dine in, I'd like it to be chinese food.
+- I am looking for a restaurant in the moderate price range that serves Indian food.
+- I need the address and phone number of a restaurant that serves polish.
+- I am looking for an expensive place to eat in the centre of town.
+- Hi, I am looking for an expensive restaurant in the east.
+- I'm looking for an Italian restaurant on the south side of town.
+- Hi, can you recommend me a good Asian restaurant? Something not too expensive?
+- I am looking for a restaurant in the center of town that would serve South Indian food.
+- I would like a restaurant that serves world food
+- I am looking for an expensive Italian restaurant.
+- I am looking for a moderately priced restaurant in the north part of town. 
+- I'm looking for a cheap restaurant in the city centre.
+- Is there any place serving cheap indian food? 
+- I am looking for an expensive restaurant.
+- I'm looking for a restaurant in the centre of town with a modest price range.  Can you recommend one?
+- I need to find a restaurant in the west area and more on the expensive side. 
+- Hello.  Can you suggest a french restaurant in the north end?
+- I need help finding a place to eat that is moderately priced and located in the east.
+- Yes, I'm looking for an expensive restaurant serving European Food.
+- I'm looking for a place to eat. I want expensive malaysian food. Can you help?
+- I am looking to dine out in the centre part of town and I would like to find a place that serves north american food.
+- Hello, I'm looking for a modern european restaurant in the center.
+- Can you find me an expensive restaurant in the centre?
+- Please suggest me a venetian restaurant in the moderate price range .
+- I want the creative food, sir. oh and this needs to be in the south as well.
+- Are there any cheap cantonese restaurants in town?
+- Are you able to help me find an expensive British restaurant in Cambridge please?
+- I am looking for a place to dine. The restaurant should be in the expensive price range and should serve italian food
+- I need the address and postcode of a cheap restaurant on the north side of town.
+- Hi, I'm looking for cheap places to eat in the city centre?
+- I am looking for indian food in the north part of town.
+- I need a restaurant located in the centre for a moderate price.
+- I want to find a moderately priced restaurant in the north part of town. What is the phone number?
+- I am looking for a restaurant in the centre of town in the cheap price range.
+- I'm looking to have some European food tonight for dinner.  Something very traditional in the centre of town should be good.  Can I get a list of options?
+- I would like a restaurant that serves portuguese food
+- I am looking for a restaurant in the west part of town.
+- I'd like to find an expensive restaurant in the north part of town.
+- Hello, I am looking for a moderately priced restaurant on the east side of town. 
+- i am looking for a restuarant in the expensive price range and should be in the centre
+- A moderately priced restaurant in the east part of town, please
+- I want to eat chinese food in the centre.
+- I want a cheap Italian restaurant in the south side of town. 
+- Hi, I want a Tuscan restaurant that's expensively priced.
+- Could you recommend a Chinese restaurant for me to try?
+- I'm looking for the information on a restaurant named Rajmahal, could you provide me their info?
+- I want a moderately priced restaurant please.
+- I'd like to find a place that serves moderately priced chinese food. 
+- looking for an expensive restaurant
+- Hi I want to find a place to eat in the moderate price range in the east part of town.
+- Would you happen to know if there are any cheap restaurants with scottish cuisine?
+- I need to find an Italian place to eat.  Hopefully with moderate prices.
+- I am looking for a cheap restaurant.
+- I want a cheap restaurant in the east part of town. What is the address and postcode?
+- I'm looking for a cheap restaurant in the west.
+- I need a moderate priced restaurant please.
+- I would like a restaurant that serves world food. It should be a really good restaurant, and it's OK if it's expensive.
+- I am looking for a moderately priced restaurant that serves Caribbean food.
+- I want a place to dine that is in the centre please.
+- Could you help me find an expensive restaurant in the centre?
+- I need a cheap restaurant that serves creative food.
+- Yes I am looking for information on a restaurant called Bangkok City.
+- Hi, I'm looking for a restaurant with modern european food. It should be in the moderate price range.
+- I am looking for a particular restaurant. Its name is called city stop restaurant
+- Hi - I'm looking for an expensive restaurant on the east side of town. Can you help me?
+- What is the phone number and postcode of a cheap restaurant in the east part of town?
+- i want a reservation that has expensive price range and should be in the centre
+- I need the address of a restaurant that serves gastropub food.
+- Hello there! I am looking for a restaurant that specializes in Swedish food.
+- I am looking for a particular restaurant. Its name is called restaurant one seven
+- I need the phone number to a restaurant located in the north part of town that is moderately priced, thank you
+- I want to find a cheap restaurant in the east part of town.
+- Hello, I am looking for a Lebanese restaurant in any area. Could you please provide me with a phone number and postcode? I'm very hungry and need food!!
+- I want an expensive restaurant and serves danish food.
+- I would like a mediterranean restaurant, and I don't care what part of town it is in.
+- I am looking for Italian food in the north part of town.
+- Yes I am looking for an expensive Chinese restaurant.
+- Is there an expensive restaurant any where in the south part of town? 
+- i want somewhere that serves traditional food.
+- Is there a cheap restaurant in the north part of town? 
+- looking for mediterranean food
+- I am looking for a restaurant. The restaurant should be in the centre and should be in the moderate price range
+- Can you help me find a restaurant?
+- I would like a restaurant that serves brazilian food
+- I would like an expensive restaurant in the east part of town
+- I would like a restaurant in the east part of town that serves british food
+- can i please have a cheap restaurant in the west ?
+- I am looking for Korean food, in the Centre of town.
+- i want an expensive restaurant in the south part of town.
+- Hi, can you help me find a restaurant in the centre area?
+- I am looking for an expensive French restaurant in town. 
+- I'm looking for an expensive restaurant in the south.
+- I want to find a restaurant that serves european food and I don't care about the price range.
+- I am looking for a restaurant that serves Catalan food in any price range.
+- Yes, I need help locating Pizza Hut City Centre.
+- I would like a cheap restaurant that serves malaysian food
+- Yes, I need some help looking for a restaurant. The restaurant should be located in the west, and the food should be in the more expensive price range if at possible.
+- I want to find a moderately priced restaurant that serves british food. What is the address and phone number?
+- I would like a cheap restaurant that serves vietnamese food
+- Can you help me find an expensive restaurant in the town centre?
+- I am looking for an expensive restaurant in the east part of town. I would like the name and phone number.
+- I want to find a cheap restaurant in the east part of town. What is the address and postcode?
+- I want a cheap restaurant in the west part of town. what is the address and phone number?
+- Know any good bites around here?
+- I am looking for a restaurant in the centre of town that serves kosher food.
+- Could you give me information about a restaurant called panahar?
+- I am looking for a restaurant that serves asian oriental food in the centre of town.
+- I want to find a restaurant in any part of town and serves malaysian food.
+- I want your most expensive restaurant in the south town.
+- I am looking for a moderately priced restaurant in the west part of town. 
+- I need some cheap Caribbean eats somewhere.
+- Is there any place here in the centre that serves corsica food?
+- Hello, I am looking for a restaurant in the centre of town that serves Indonesian food.
+- I want to find a restaurant in the south part of town and serves scandinavian food.
+- I would like a moderately priced restaurant in the west part of town
+- I'm looking for a restaurant that serves belgian food
+- I need a restaurant. Something expensive and italian.
+- I am looking for a particular restaurant. Its name is called restaurant alimentum
+- I need to find an expensive restaurant in the west.
+- I'm looking for a thai restaurant on the west side.
+- I am looking for information on the Yippee Noodle bar.
+- i want some mexican food.
+- I am looking for a restaurant that is moderately priced and serves Cantonese food.
+- I would like to find a cheap restaurant that serves tuscan food
+- I'm trying to find a restaurant that serves crossover food.  Can you recommend anything?
+- Is it possible to get any Greek food in the centre part of town?
+- I am looking for a German restaurant in the west.
+- I would like a restaurant in the west part of town
+- I'd like to find an expensive gastropub, should you have such a beast.
+- I would like a restaurant in the west part of town that serves international food
+- I am looking for a place to dine that serves indian food and is located close to the centre, can you help me please?
+- I am looking for an expensive restaurant that serves Welsh food.
+- I'm looking for an expensive place to dine in the centre.
+- I am looking for a restaurant in the moderate price range serving modern European food.
+- I am looking for a restaurant. The restaurant should serve italian food and should be in the moderate price range
+- HI, I am looking for a cheap place in the centre of town to eat. Can you help?
+- I'm looking for a particular restaurant called j restaurant.
+- I am looking for a restaurant in the centre area.
+- am looking for a place to dine it should be in the centre and should be in the expensive price range
+- I'm looking for a moderately priced restaurant serving cuban food. 
+- I'm looking for an expensive restaurant in the centre.
+- Looking for a restaurant in the East side of town
+- a moderately priced restaurant in the north part of town?
+- I would like an expensive restaurant that serves vegetarian food
+- I am looking for a particular restaurant. It's Efes Restaurant.
+- I am looking for a restaurant in the west that serves vegetarian food.
+- I want to find an expensive restaurant and serves european food. Can i also have the address, phone number and its area. ?
+- I'd like to find an expensive restaurant in the centre.
+- Hi.  Can you tell me if any restaurants in the area serve halal food?
+- looking for a restaurant in the moderately priced range
+- I am looking for an Italian restaurant in the west part of town
+- I would like an expensive restaurant in the east part of town, please.
+- I am looking for a restaurant. The restaurant should serve indian food and should be in the expensive price range
+- I am looking for an expensive Danish place. 
+- I'm looking for a restaurant that serves spanish food
+- I have to book a place to eat that serves irish food and is located in the centre, can you help me?
+- I am looking for an Italian restaurant in the expensive price range. 
+- I am looking for a cheap priced restaurant in the west part of town.
+- I want to eat at a moderately priced restaurant please
+- I would like an expensive restaurant in the south part of town
+- Hello there. Any suggestions on a good seafood restaurant located in the centre of town?
+- I am looking for a Spanish restaurant in the west side of town
+- I am looking for a moderately priced restaurant in the south part of town. 
+- I am looking for the address and phone number of an expensive restaurant serving Thai food.
+- I want something in the north that serves moroccan food .
+- Hello, I am looking for a moderately priced restaurant that serves gastropub food. 
+- I am looking for a place called tang chinese
+- I am looking for a restaurant in the cheap price range that serves Italian food.
+-  am looking for a restaurant. The restaurant should be in the west and should be in the cheap price range
+- I'm looking for a place to dine in the moderate price range in the east.
+- Hello! I am looking for the address and phone number of a Lebanese restaurant in the Centre.
+- Hello, I am looking for a cheap restaurant that serves Malaysian food. 
+- I'm looking for a British restaurant, in the expensive price range.
+- I am looking for a cheap Asian Oriental restaurant.
+- I would like to find a restaurant named Tandoori Palace. Do you know of that restaurant?
+- I would like a moderately priced restaurant in the south part of town
+- I am looking for a cheap place to dine.
+- I'm looking for a restaurant called de luca cucina and bar
+- I would like an expensive restaurant in the south part of town
+- I want a restaurant on the west end of town.
+- I'm looking for a moderately priced restaurant in the north part of town
+- I am looking for an expensive restaurant in the centre
+- I want to find a restaurant in the centre part of town and serving Turkish food.
+- I'd like to find a restaurant that serves Korean food. 
+- Can I get a cantonese restaurant?
+- Hi, I want a moderately priced restaurant located in the south part of town.
+- Yes, I need some help and information pertaining to a particular restaurant. The name of the restaurant is Sitar Tandoori. I'd like some information on the place if you can help.
+- I want something cheap in the west part of town.
+- Hello!  I'm looking for a moderately priced restaurant in the centre.
+- looking for barbeque food.
+- hello can i find a place that serves chinese food and has expensive price range for my family
+- Hi I am looking for an expensive restaurant in the centre of town.
+- Can you find me a cheap Spanish restaurant? 
+- I am looking for the price range of a restaurant called Rice boat.
+- I'm looking for a restaurant that serves traditional european food, that's not too expensive or too cheap. 
+- I am looking for a restaurant in the west that serves italian food.
+- I am looking for a cheap restaurant in the east part of town. 
+- Yes, I am looking for a cheap restaurant in the south.  Can you tell me what you have?
+- Please recommend me a cheap restaurant in the north .
+- Hello, I am looking for an expensive restaurant that serves cantonese food. 
+- I'm looking for a casual Sri Lankan restaurant.
+- I am looking to find a restaurant that serves swedish food and expensive.
+- Can you help me find a cheap restaurant in the centre of town? 
+- Is there any restaurants on the south part of town?
+- A moderate priced irish food restaurant.
+- I'm looking for an inexpensive restaurant in the west section of Cambridge.
+- i am looking for a place to dine. The restaurant should be in the moderate price range and should serve international food.
+- Can you find the restaurant names Loch Fyne?
+- Hi, I want a French restaurant in the expensive price range.
+- Can you help me find some cheap Italian food?
+- Can you help me find Restaurant One Seven?
+- I am looking for Cote restaurant.
+- I want a moderate priced restaurant in the west part of town.
+- I am looking for a restaurant that serves British food and in the east part of town.
+- I'm looking for a Swedish restaurant, preferably in the expensive price range.
+- Is there a thai restaurant in the centre of town? 
+- I'm looking for a place to eat in the east that is expensive.
+- Hi can you help me find a cheap restaurant in the centre of town? 
+- I'm looking for a restaurant in the centre that serves Italian food.
+- I'd like you to tell me about great Indian restaurants in the area.  It's okay if they are expensive.
+- Hello, I'm looking for an Italian restaurant on the East side. Thank you! 
+- I'm looking for a restaurant that serves moroccan food in the centre. 
+- Hello! Can you recommend a moderately priced restauarnt near the south part of town?
+- I am looking for an expensive restaurant in the east part of town.
+- A moderately priced restaurant in the west part of town, please. Give me their address and phone number, too.
+- Yes, I'm looking for a moderately priced restaurant in the centre.
+- Can you find me a restaurant with a moderate price range?
+- looking for a restaurant in the moderate price range
+- I am looking for a restaurant that is in the moderate price range and in the west part of town.
+- What is good in the south part of town
+- I'm looking for a cheap place to dine, preferably in the centre of town. 
+- I'm looking for a particular restaurant. Its name is called panahar.
+- I'm looking for a nice, expensive restaurant on the south side of town.
+- I'm looking for something cheap in the south part of town.
+- Can you find me an italian restaurant that is in the centre?
+- I would like to find a restaurant in the centre of town that serves irish food
+- I would like a European restaurant in the west part of town, please.
+- I need to find a moderately priced restaurant in the east part of town. 
+- I am looking for a place serving Indian food in the moderate price range
+- I'm looking for a place to eat in the centre that serves chinese food.
+- I am looking for a German restaurant in the west part of town. 
+- I'm looking for a nice Italian restaurant. Nothing too expensive...like mid range?
+- Is there an expensive restaurant serving caribbean food? 
+- I'm looking for vietnamese food. I would like the restaurant name and address. 
+- I want to eat someplace with unusual food. Price is no object. What can you suggest?
+- I am looking for a place serving christmas food in the centre of town.
+- I would like a restaurant that serves brazilian food
+- I want to find a cheap restaurant in the west part of town. What is the address and food?
+- I want an expensive restaurant and serves european food. What is the phone number?
+- Can I get a korean restaurant in the town centre?
+- I need a cheap restaurant please.
+- I want afghan food in the centre of town.
+- an expensive restaurant please
+- I am looking for a cheap restaurant serving chinese food. 
+- I'd like to find an expensive restaurant that serves venetian food. 
+- I need to find a restaurant that is moderately prices and serves modern european food.
+- I would like a moderately priced restaurant located in the south part of town.
+- Hello, I am looking for a restaurant on the south side of town that serves christmas food. 
+- Can you help me find a restaurant that serves African food with a moderate price range please
+- I am looking for Mediterranean food in the center of the city.
+- Is there any expensive restaurants in town serving Australian food?
+- I am looking for a restaurant that is in the south part of town and in the cheap price range.
+- I'm looking for a North African restaurant.
+- I am looking for an expensive restaurant that serves British food please.
+- Are there any Australian food places in the south part of town?
+- I want to find an expensive restaurant in the east part of town. What is the phone number and type of food?
+- I'm looking for something serving christmas food.
+- I am looking for a cheap restaurant that is in the north part of town.
+- I am looking for a restaurant in the west side of town. 
+- I am looking for a restaurant called the Gandhi.
+- I am looking for a restaurant serving scottish food. 
+- Hi, I want a moderately priced restaurant.
+- I am looking for a restaurant that is moderately priced and served British food.
+- I am looking for a place to dine. The restaurant should be in the west and should serve british food
+- restaurant on the south side please
+- I am looking for some info on rice house restaurant.
+- I want a cheap restaurant in the west part of town. I need its address and phone number please 
+- I'd like to find a panasian restaurant in the centre of town please. 
+- I want to find a cheap restaurant serving hungarian food.
+- Could really use some grub.
+- I'm looking for a restaurant in the east.
+- I'm looking for a cheap restaurant in the north part of town.
+- I want to find a restaurant in the centre part of town and serves persian food.
+- I would like an expensive restaurant in the south part of town
+- I'm looking to eat at a place that serves british food in the east part of town.
+- I am looking for a restaurant in the west part of town and is in the moderate price range.
+- I am looking for a restaurant in the west part of town
+- What kind of restaurants are on the east side of town?
+- I am looking for a restaurant in the expensive price range that serves Australasian food. 
+- I want to find a cheap restaurant in the north part of town. What is the address and phone number?
+- I'm trying to find a moderately priced restaurant in the East part of town.  Can you recommend one to me?
+- I'm hoping to find a restaurant in the centre that serves British food.
+- Is there a cheap restaurant in the north part of town? 
+- I need help finding a very inexpensive place to eat located in the north, can you help me?
+- I'm looking for a moderately priced restaurant.
+- Can you help me find a restaurant please?
+- I want to find a restaurant in any part of town and serves seafood.
+- I'm looking for a restaurant that serves swedish food
+- I need to get some information on a restaurant named eraina
+- I need a south restaurant with some greek food.
+- I am looking for Italian food on the south side of the city.
+- I'd like to find a north american restaurant in any area. I'd  like the address, phone, and price range.
+- Hello.  I'm looking for a cheap place to eat in the centre.  Can you help me?
+- I would like a cheap restaurant in the west part of town
+- Hello, I am looking for a cheap restaurant that serves Eritrean food. 
+- I would like to find an expensive restaurant in the east part of town.
+- I am looking for Basque food, in the Centre of town. 
+- I want to find a moderately priced restaurant in the west part of town. What is the address?
+- I would like a moderately prices restaurant in the East part of town. I would like the phone number and postcode, please.
+- I'm looking for a restaurant, somewhere not too expensive, but not bottom of the barrel either, something in the mid range.
+- I am looking for a danish restaurant in the centre of town.
+- I'm looking for a restaurant in a moderate price range.
+- I am looking for a cheap restaurant with Chinese food.
+- I am looking for a place that serves African food. I don't care about the price range.
+- I want to find a moderate priced place to dine in the centre of town.
+- Yes, I'd like some help looking for a particular restaurant. The name of the restaurant is Darrys Cookhouse and Wine Shop. I'd like to know where it's located and how expensive.
+- I want a moderately priced restaurant.
+- I am looking for a cheap restaurant in the west part of the city please.
+- Hi! I'd like to find an expensive Indian restaurant to dine at. 
+- I am looking for a cheap restaurant in the centre part of town.
+- I'm looking for a chinese restaurant in city centre.
+- Hi, I am looking for a cheap restaurant in the town centre?
+- I am looking for a nice restaurant in the center of town.
+- I need help finding a place to eat called curry garden.
+- I am looking for an expensive restaurant that serves Persian food. 
+- I would like a traditional food restaurant.
+- I am looking for a restaurant that is in the centre of town and serves light bites food.
+- Yes, I hope so.  Are there any Chinese restaurants toward the east end of town?
+- I am looking for a korean restaurant in the centre.
+- I would like inexpensive Turkish food.
+- I'm in the mood for a traditional American food restaurant tonight and looking to treat myself to some expensive fine dining.  Can you help me find a perfect place?
+- I'm looking for cafe uno, can you help me find where it is?
+- I'm looking for a particular restaurant. Its name is called city stop restaurant.
+- I want to eat fine british food.
+- Hi there, can you help me find a restaurant in the centre of town? Someplace with British food?
+- I am looking for an expensive restaurant in the south part of town. I also need the address and type of food they serve.
+- I'm looking for unusual and expensive cuisine in the west. Do you have any suggestions?
+- Hi, I need a recommendation for a restaurant in town.
+- I'm trying to find an expensive restaurant in the centre of town.
+- I AM looking for a restaurant. The restaurant should be in the expensive price range and should be in the east.
+- Can you give me the phone number of a moderately priced restaurant in the North part of town?
+- I'm looking for a gastropub restaurant.
+- I'm looking for a restaurant that serves indian food.
+- I am looking for a cheap restaurant in the north part of town. 
+- I need to find an expensive restaurant on the north side. 
+- Hi! Can you find me a moderately priced restaurant for my girlfriend and I?
+- I am looking for Japanese food in the south part of town.
+- Good Afternoon.  I am trying to find an Indian restaurant to eat at.  I would prefer something expensive.  Can you help me?
+- Are there any Chinese restaurants on the north side of town?
+- Hi! Are there any asian oriental restaurants in the center of town?
+- I am looking for an expensive restaurant that is in the east part of town.
+- AM looking for a place to dine. The restaurant should be in the south and should serve gastropod food.
+- I need an indian restaurant in the centre.
+- I'm looking for a moderately priced Japanese restaurant.
+- I am looking for a restaurant in the moderate price range that serves Lebanese food.
+- I'm looking for an upscale, expensive place to eat on the west side of town.
+- I'm wanting to find a restaurant. The location I want is the west and I want something in the moderate price range. Can you help me?
+- I would like a cheap Spanish restaurant.
+- I am looking for a place to eat at that is expensive and serves food with afternoon tea.
+- I want a restaurant in the town centre. Can you help me?
+- Hi there. I heard someone mention the Bloomsbury Restaurant and I was wondering if you could give me some information for them.
+- I'm looking for an expensive restaurant in the Centre. Can you help me find one? 
+- I am looking for a moderately priced restaurant in the south part of town. Any kind of food is good with me; I would just like to know the phone number of the venue you find. 
+- I would like a cheap restaurant that serves mediterranean food
+- I want to find a restaurant in the north part of town and serves international food.
+- I need help finding an expensive place to eat in the west please. 
+- I am looking for a restaurant in the center of town that serves Russian food.
+- I am looking for a restaurant that serves swedish food in the centre.
+- Hello, I am looking for a restaurant that serves Portuguese food. 
+- Find a moderately priced place for me please.
+- I am looking for a moderately priced Chinese restaurant.
+- Hi, I need a place to eat in the centre for a medium price range. What do you have that you can suggest?
+- I am looking for a restaurant that serves Australian food and in the cheap price range.
+- Hello, I am looking for a restaurant on the west side of town that serves kosher food. 
+- I am looking for a restaurant in the south part of town that serves Portuguese food.
+- I'm looking for a restaurant named hakka
+- I would like to eat at an expensive european food restaurant
+- I want an expensive restaurant in the east part of town. I would also like its phone number.
+- Hi, I'd like to find an expensive cantonese restaurant. 
+- Can you help me find a Turkish restaurant in the expensive price range please?
+- Hello, I am looking for a restaurant that serves Moroccan food. 
+- I am looking for an expensive restaurant that serves Thai food.
+- expensive mediterranean restaurant please 
+- I'd like an expensive restuarant with Chinese food.
+- Hi, could you tell me the phone number and address of the nearest Mexican restaurant?
+- Are there any Portuguese restaurants in Cambridge?
+- I want to find a restaurant in the centre and serving japanese food.
+- I'm looking for Scandinavian food in any area.
+- I am looking for a moderately priced chinese restaurant. 
+- I am looking for a restaurant that is moderately priced and in the north part of town.
+- I am looking for a restaurant. I would like something cheap that has Chinese food.
+- I am looking for a moderately priced Scottish restaurant
+- I am looking for a place to eat in the moderate price range serving Indian food.
+- Can you find me an expensive restaurant that serves steakhouse food? 
+- Can you recommend a restaurant in the city centre that serves light bites?
+- I'm looking for a Korean restaurant that's expensive.
+- I would like a restaurant in the south part of town that serves christmas food
+- I'm looking for a greek restaurant that is moderately expensive.  
+- I am looking for an expensive place to dine in the north.
+- I'm looking for somewhere to eat in the centre part of town, somewhere nice, price is no object.
+- Hi, could you help me find a restaurant called ask.
+- I want to find an expensive restaurant serving mediterranean food. What is the address and phone number?
+- I am looking for an Italian restaurant in the centre of town, could you provide me with some options to choose from please?
+- I'm looking for British food. I want the restaurant to be in the town centre. 
+- I need an expensive restaurant
+- I am looking for a restaurant. The restaurant should be in the expensive price range and should be in the centre.
+- Hi.  Have you heard of Pizza Hut City Centre by chance? I may want to eat there soon.
+- Can you please recommend an inexpensive restaurant in the South part of town?
+- I want crossover food at an expensive price. Can you help?
+- I am looking for a moderately priced restaurant in the west part of town. 
+- Are there any Indian restaurants there?
+- I would like to go to an Indian restaurant in the north.
+- I am looking for an expensive restaurant in the west.
+- I am looking for a cheap restaurant in the west part of town.
+- I'm looking for a cheap place to dine. I want it to be on the west side of town.
+- I want a moroccan restaurant.
+- Could you tell me where Cotto is located?
+- I'm looking for a restaurant my friend recommended, I think she called it the Curry Prince. 
+- Yes, I'm looking for a restaurant in the east part of town serving international food. 
+- I want to find a place that serves halal food.  Can you help me?  Not too expensive, please.
+- Are there any moderately priced restaurants in the southern part of town?
+- I would like a restaurant in the north part of town that serves canapes food.
+- I would like a moderately priced restaurant in the north part of town
+- I'm looking for a cheap restaurant in the south part of town.
+- Please suggest me some moderately priced restaurant in the south.
+- I would like a malaysian restaurant in the centre of town. 
+- Is there anywhere that serves British fish and chips around here?
+- Heya, can you find me an expensive restaurant with north african food?
+- Could you recommend an expensive restaurant in the city centre?
+- I'd like to find a resturant that serves cheap Chinese food!
+- I'm looking for an English restaurant that's moderately priced..
+- I am looking for a restaurant in the south part of town that serves Jamaican food.
+- Are there any moderately priced places to eat with British styled food?
+- Hello, I am looking for an expensive restaurant on the south side of town. 
+- Hello, I am looking for a thai restaurant on the north side of town. 
+- Hello, could you please find me a place to dine?  
+- Hello, I am looking for an expensive restaurant that is on the east side of town. 
+- I'm looking for a restaurant in the north part of town that serves Welsh food.
+- Hi.  I was wondering if there are any Eastern European type restaurants in the south part of the city?
+- I am looking for a moderately priced restaurant in the north part of town, what do you have available?
+- I would like a Hungarian restaurant in the west of town.
+- I am looking for a restaurant in the south part of town that is in the cheap price range.
+- I am looking for a cheap place to have a meal.
+- I am looking for a resteraunt that serves japanese food, any price range is fine.  What do you have available?
+- Can you find me a moderately priced restaurant in the west ?
+- What is the address and phone number of a cheap restaurant in the north part of town?
+- I'm looking for a place to dine. The restaurant should serve japanese food and should be in the centre.
+- I am looking for a restaurant that serves canapes in the east.
+- I am looking for an expensive restaurant that serves russian food.
+- Hi, I would like to find an expensive restaurant in the centre of cambridge please.
+- I want to find a restaurant serving basque food. I don't care about the price range
+- Can you help me find a cheap place to eat?
+- I'm hoping to find a cheap restaurant in the centre.
+- I am looking for a place to dine. The restaurant should be in the expensive price range and should serve british food.
+- Can you recommend me a moderately priced restaurant in the north part of town ?
+- Hi, I am trying to find a restaurant serving Italian cuisine, something expensive please. What would you suggest?
+- I'd like to find an expensive restaurant in the centre of town. 
+- Hi.  I'm trying to find a good restaurant in the south part of town.
+- Please help me find somewhere to eat in the centre
+- I'm looking for a restaurant that offers British food in a moderate price range, can you help me with that?
+- Yes I would like to find Spanish food in the center of town.
+- I'm looking for a place to dine. The restaurant should be in the expensive price range and should be in the centre.
+- Hi, I'm looking for a moderately priced restaurant in the south part of town.
+- I need a place to eat in the south that serves italian food.
+- I would like a restaurant in the north part of town that serves french food
+- I would like a moderately priced restaurant in the north part of town
+- I would like to find a restaurant in any area and it should serve lebanese food.
+- I am looking for a restaurant. The restaurant should be in the centre and should serve persian food
+- Are there any Lebanese restaurants in the city?
+- What's available in the centre, in the way of cheap places to eat?
+- Hi, I'm looking for an expensive restaurant that serves British cuisine.
+- Can you tell me where I can find an expensive chinese restaurant?
+- What is a cheap restaurant in the south part of town?
+- Hi I am looking for some information on the good luck chinese food takeaway.
+- I am looking for a restaurant in the north part of town that serves brazilian food.
+- Can you direct me towards a moderately priced restaurant serving fusion food? 
+- I would like an expensive restaurant that serves vegetarian food
+- Good morning, I need help finding a restaurant that serves bistro in the moderate price range.
+- I am looking for a place to dine. The restaurant should serve african food and should be in the centre
+- is there a restaurant in the Centre?
+- I am looking for a place to dine. The restaurant should serve mediterranean food and should be in the south
+- Can you find me an expensive place serves panasian food? 
+- I want to find a cheap restaurant serving italian food. What is the address and phone number?
+- I am looking for a restaurant in the centre that serves world food.
+- I am looking for a cheap restaurant in the north part of town. 
+- Yes, I am looking for a restaurant in the area. It should serve Spanish food, and it should also be in the more expensive price range. Can you possibly help me?
+- I am looking for information about city stop restaurant?
+- Caribbean food in the east part of town. If no such place, Indian.
+- I'd like a restuarant in the north with expensive food.
+- I would like an expensive place to dine, centre of town.
+- I want to find a restaurant in the east part of town. It serves chinese food. What is the address, phone number, and postcode?
+- I am looking for a mexican restaurant in the centre.
+- I need help finding a very cheap restaurant located in the centre, can you help me?
+- I am looking for a restaurant in the centre of town serving italian food.
+- I need a restaurant of moderate price in the west.
+- I'd like to find a place to eat on the west side. Something moderately priced, please. 
+- I am looking for a restaurant in the city center that serves modern European food.
+- Can you find me a Chinese restaurant with moderate prices?
+- i want a place for dinner and serves a mexican food,where can i find it?please first pick for me a taxi to that place should be to the north.
+- I'm looking for a restaurant called graffiti.
+- I need a place to eat in the north area of the city.
+- I'd like a restaurant in the north part of town that is in the medium price range.
+- Hello, I am looking for a moderately priced restaurant that serves traditional food. 
+- I want to find an expensive restaurant in the south part of town. What is the address?
+- Hi.  Could you help me find an expensive restaurant that serves Catalan food?
+- I need to find a restaurant in the west part of town. It should be in the cheap price range.
+- I am looking for a restaurant in the Centre.
+- I am looking for a restaurant that serves Vietnamese food. I don't care about the price range.
+- Can you help me find a place to eat that serves unusual food in the centre?
+- Are there any cheap restaurants in the south part of town? 
+- I would like to find a restaurant in the centre. 
+- What fancy restaurants are there on the east side of town?
+- I am looking for a cheap restaurant that serves Cuban food. 
+- Hi.  I'm looking for a restaurant that serves Irish food.  Can you help me?
+- I want to find a restaurant in the south part of town serving singaporean food.
+- I'm trying to find a cheap Asian restaurant to have dinner at tonight.  What kind of options are available for me?
+- I'm looking for an afghan restaurant in the north.
+- Yes I needed information about a particular restaurant.
+- I am looking for a place serving Indian food in the west.
+- I'd like to find some expensive Mexican cuisine.
+- Can you give me the address for an indian restaurant in the south part of town?
+- Id like to eat at an expensive Indian place, know any?
+- I am looking for a restaurant in any area that serves spanish food, what is available?
+- I am looking for a restaurant serving mediterranean food. 
+- I'm looking for a japanese restaurant in town.
+- I'm looking for an expensive restaurant in the south part of town
+- I want to find a cheap restaurant in the south part of town. 
+- Hello, I'm looking for an Expensive Indian restaurant. What can you recommend? 
+- I am looking for a high end Indian restaurant, are there any in town?
+- I feel like having Italian for dinner.  Are there any cheap restaurants with good Italian in town?
+- I am looking for a restaurant serving Persian food in the expensive price range.
+- I would like a restaurant in centre city serving spanish food. 
+- Hi I am looking for a restaurant in the centre of town serving north indian food.
+- I am looking for the phone number and address of a restaurant that serves european food?
+- Hi! I'm searching for a Panasian restaurant in the south part of town.
+- I am looking for a place to dine. The restaurant should be in the west and should be in the cheap price range
+- I'm looking for a restaurant serving Irish food in any area.
+- I am looking for more information regarding the cambridge chop house.
+- I want english food.
+- Are there any Chinese restaurants in the centre part of town?
+- I would like a cheap restaurant in the south part of town. 
+- I'm looking for a place to dine that serves British food. It should be in the moderate price range.
+- I'd like a cheap restaurant in the east part of town. 
+- I would like a restaurant in the north part of town that serves australasian food
+- Could you find me a welsh restaurant in the cheap price range ?
+- I'm trying to find a restaurant called The Slug and Lettuce. Do you know where that is?
+- Hi, I want an expensive restaurant. East part of town please.
+- Hello, I am looking for a cheap restaurant that serves german food. 
+- I am looking for an expensive restaurant in the east part of town.
+- I want to find a moderate price restaurant and serving austrian food.
+- I am looking for a moderately priced restaurant in the north part of town. I would also like the address and phone number.
+- Hi, I'm looking for a Persian restaurnt in the north part of the city.
+- I want to find a cheap restaurant serving international food. What is the address and postcode?
+- I am looking for a moderately priced restaurant in the south part of town. 
+- Hi! Are there any expensive Greek restaurants in town?
+- I'd like to find a restaurant serving Christmas food.
+- I am looking for bistro food.
+- I am looking for a chinese restaurant in the south.
+- a restaurant in the moderately priced range, please
+- Is there a restaurant on the North side of town?
+- Hi.  Can you please help me find a moderately priced restaurant in the South part of town?
+- Hello, I'm seeking a cheap restaurant.
+- I want to find a restaurant in any area and serves scottish food.
+- I'm looking for unusual food in the south part of town.
+- I'm in the east part of town, and I'd like to find a nearby Scandinavian restaurant.
+- I am looking for a restaurant in the north part of town that is in the cheap price range.
+- I'd love to find an expensive German restaurant. 
+- I would like the phone number of an expensive restaurant on the east side of town, please.
+- I'm looking for hungarian food in the Centre
+- Hi, I'm looking for a moderately priced restaurant on the south side of town.
+- I would like a moderately priced restaurant in the north part of town
+- I am looking for a restaurant that serves international food!
+- I need an expensive restaurant.
+- I am looking for a restaurant. The restaurant should be in the centre and should be in the cheap price range
+- Are there any moderately priced restaurants serving international food?
+- I'm looking for a cheap restaurant in the west part of town. I'd also like the restaurant's phone number.
+- I am interested at eating at an expensive place in the west part of town.
+- Hello, I am looking for a Malaysian restaurant on the north side of town.
+- I'd like to find an expensive restaurant in the east part of town.
+- Can you give me information on a restaurant called graffiti?
+- Hello, I am looking for a restaurant on the south side of town that serves unusual food. 
+- I want to find a restaurant in the centre part of town and serves british food.
+- Hello, I am looking for a restaurant that serves fusion food. 
+- Yes I am looking for an expensive place to eat that is located in the city center.
+- Hello, I am looking for a restaurant on the south side of town that serves international food. 
+- I'm looking for a place to eat in the east side of the city.
+- I would like a british food restaurant in the centre.
+- I need help finding a portuguese restaurant located in the centre, can you assist me please?
+- I am looking for an upscale restaurant with European food, please.
+- I'm looking for an indian restaurant in the south area of town. 
+- cheap restaurant, please
+- I'm looking for a restaurant called la margherita.
+- I am looking for a french restaurant.
+- I am looking for expensive Corsica food.
+- Hi, is there a restaurant in town called the rice boat?
+- Hello, I am looking for a restaurant that serves Mexican food. 
+- What restaurants in the centre serve international cuisine?
+- I'm looking for a moderately priced resturant in the centre of town.
+- Can you help me find a Russian restaurant?
+- Hello, I am looking for a cheap restaurant on the south side of town. 
+- I am looking for a place to dine. The restaurant should be in the cheap price range and should serve chinese food
+- Could you recommend an expensive restaurant that serves Mediterranean food?
+- I need to find a restaurant call the nirala.
+- I'm wanting Indian food, is there a restaurant that serves that near the centre of town?
+- I need some Caribbean food in the south part of town.
+- Can you recommend a restaurant that serves French food?  Not too expensive, please.
+- Hello, I am looking for a restaurant in any area that serves danish food. 
+- I am looking for a restaurant. The restaurant should be in the moderate price range and should be in the centre
+- I am looking for a French restaurant.
+- I want portuguese food and I don't care about the price range. What is the address and phone number?
+- I'm looking for a restaurant the serves spanish food.
+- Help me find a restaurant called hakka please
+- I'm looking for a moderately priced polish food restaurant. 
+- I am looking for a danish restaurant in the south part of town. 
+- Is there an expensive French restaurant in town? 
+- I would like an expensive restaurant that serves turkish food
+- I need to find a restaurant in the north side of town
+- i am looking for a particular restaurant. Its name is called restaurant two two.
+- I need a restaurant that serves Turkish food.
+- I am looking for a British restaurant that is moderately priced. 
+- Can you recommend me a restaurant in the expensive priced range located in the east part of town?
+- Can you locate an expensive restaurant in the south?
+- I'm looking for a restaurant, something moderately priced.
+- I want turkish food.
+- I am looking for a place to dine in the west.
+- I am looking for a cheap restaurant in the east part of town. 
+- Hi! Can you give me some information on the Royal Spice restaurant?
+- I would like a restaurant in the west part of town.
+- I'm looking for a moderately priced restaurant in the west part of town.
+- I am looking for an Italian restaurant in the west part of town. Could I also get the phone number and address of the restaurant?
+- I am looking for a restaurant serving turkish food in the centre part of town. 
+- Hi, I'm looking for a local upscale chinese restaurant.
+- I am looking for a cheap restaurant
+- I'd like to find panasian food for cheap please.
+- I am looking to eat at Rajmahal.
+- I would like a restaurant in the east part of town that serves indonesian food
+- I'd like to find a moderately priced place located in the north part of town.
+- I need some portuguese food! I need a restaurant in any area. Please give me a phone number.
+- I am looking for a restaurant on the eastern side of town.
+- I want a place with austrian food.
+- I need the name and phone number for a cantonese restaurant on the west side of town.
+- I am looking for a caribbean restaurant in the centre of the city.
+- I would like a restaurant in the centre that is in the expensive price range. 
+- I want a moderately priced restaurant in the east part of town. What is the phone number?
+- Hello, I am looking for an expensive restaurant that serves Irish food. 
+- I'm looking for a cheap restaurant in the west area of town.
+- I would like a restaurant in the south part of town that serves jamaican food
+- I am looking for an international restaurant in the east part of town.
+- Are there any expensive restaurants in the city centre you could recommend?
+- I'd like a jamaican restaurant please.
+- I'd like a Kosher restaurant that's in the moderate price range.
+- I'm looking for an expensive Indian restaurant. Can you help me with that?
+- malaysian food in the west part of town 
+- I'd like to find an expensive place to eat in the south.
+- I am looking for a restaurant in the moderate price range that serves bistro type food. 
+- I would like an expensive restaurant in the south part of town
+- Could you help me find a restaurant that's moderately priced, and services sri lankan cuisine?
+- Can you find a restaurant in the centre that serves chinese food?
+- Hello, I am looking for a Scottish restaurant on the west side of town. 
+- I want to find a place to eat that serves indian food in the centre of town.
+- I am looking for a Malaysian restaurant in the east part of town.
+- Hi, I'm looking for an expensive restaurant in the south part of town.
+- Hi, can you look up Darrys Cookhouse and Wine Shop for me?
+- I'm looking for an expensive mediterranean restaurant.
+- I am looking for a restaurant in the expensive price range that serves Belgian food.
+- I'm looking for a restaurant called the copper kettle.
+- looking for a restaurant. The restaurant should be in the moderate price range and should be in the centre.
+- I would like a cheap restaurant in the east part of town, please. 
+- I want to find an expensive restaurant located in Cambridge centre.
+- I am looking for a restaurant in the moderate price range and in the north part of town.
+- I would like a moderately priced restaurant in the west part of town
+- I would like a moderately priced restaurant that serves creative food.
+- I need a cheap place to dine please.
+- Could I get the name of a moderately priced restaurant on the north side of town?
+- Can you help me find an expensive restaurant in the centre area? 
+- I'm looking for an indian restaurant that is priced moderately. 
+- I am looking for a restaurant that serves Thai food and is in the expensive price range.
+- I am looking for a place to dine located in the centre and in the moderate price range. Can you help me?
+- Are you able to find me a french expensive restaurant?
+- Where in the east can I find a restaurant that serves venetian food?
+- Can you help me find and expensive Thai restaurant? 
+- Hi, i am looking for a middle eastern restaurant in the expensive price range. 
+- I am looking for Irish food that is cheap. I will need their phone number too.
+- I am looking for some info on India House
+- I want a restaurant in the centre and serves japanese food. What is the address? 
+- I would like to book a table at a turkish place and is moderately priced.
+- I would like an expensive restaurant in the south part of town
+- I'd like to find a moderately priced chinese restaurant.
+- Are there any restaurants that serve proper British food in town?
+- Hi.  I'm trying to find a restaurant that serves Danish food.
+- Hi, I'm looking for restaurants in the area. Could you recommend any moderately-priced establishments that are located near the town centre.
+- Are there any casual restaurants in the south?
+- Yes, can you lookup the chiquito restaurant bar for me.
+- Hi Can you help me find a restauant in the west side of the city?>
+- I'd love to find an Asian Oriental restaurant. Something moderately priced. 
+- I am looking for a restaurant in the expensive price range. It should serve Sri Lankan food.
+- Can you tell me about the J Restaurant?
+- Where can I get Swiss food in town?
+- I am looking for a cheap restaurant that serves Scandinavian food
+- A cheap restaurant in the south part of town
+- I am looking for a place to dine that serves chinese food and located in the centre.
+- A french restaurant in the centre part of town. Please give me address and phone number.
+- Hi! I need to find a cheap restaurant in the centre.
+- I am looking for a restaurant serving malaysian food. 
+- Hello, I am looking for a restaurant that serves international food. 
+- I need a cheap Spanish restaurant.  Are there any around?
+- I'm looking for a cheap place to dine that serves danish food.
+- I am looking for a restaurant serving chinese food in the centre part of town.
+- I'm looking for a moderately priced restaurant in the north part of town. I would like to know the type of food, address and phone number.
+- I am looking for a moderate priced restaurant in the centre of town please.
+- I want a danish restaurant in the south.
+- I want a restaurant in the south part of town and serves panasian food.
+- I am looking for a cheap restaurant that is in the north part of town.
+- Can I have a moderately priced restaurant in the west ?
+- Hello, I am looking for a Hungarian restaurant on the east side of town. 
+- I am looking to eat at a north restaurant in the expensive price range.
+- I would like a moderately priced restaurant in the west part of town
+- I'm looking for a restaurant named Panahar.
+- Hi there. I'm hoping you can help me. I am looking to try molecular gastronomy food. Might there be a restaurant like this in the centre of town?
+- Hello, I am looking for a restaurant that serves vegetarian food. 
+- north part of town restaurant please
+- I want to find a restaurant in any area and servings persian food.
+- I am looking for a restaurant.
+- I am looking for a restaurant in the centre that serves african food. 
+- I would like a restaurant in the east part of town that serves gastropub food
+- Are there any restaurants in town that serve modern american food?
+- Looking for a cheap restaurant.
+- I am looking for a restaurant in the south part of town and serving portuguese food. What is the address and phone number?
+- I'm looking for a place to eat that is japanese that is in the mid price range please.
+- I need a restaurant
+-  I'm looking for a particular restaurant. Its name is called the hotpot.
+- Hi! I need a restaurant that serves Chinese food please!
+- Hi, I'm looking for an expensive restaurant that serves kosher food.
+- I would like to try saigon city.
+- Hey, I'm trying to find a restaurant called Taj Tandoori. What do you know about that?
+- Yes, I'm looking for a cheap place to eat on the east side.  Do you know of anything?
+- Hi, I'm looking for an expensive restaurant serving English food.
+- I'm looking for a steakhouse restaurant in the east part of town. 
+- Can you find me something cheap in the south part of town?
+- I want a restaurant serving mediterranean food and I don't care about the price range.
+- I want some welsh food. Moderately priced please.
+- What is the address for find pizza hut city centre?
+- Hello, I am looking for a moderately priced restaurant on the north side of town. 
+- I would like to find a danish restaurant this is moderately priced.
+- I'm looking for information about a restaurant named the golden wok.
+- I'm looking for yu garden, can you help me find it?
+- I am looking for a place in the centre of town that serves Thai food.
+- I am looking for a cheap restaurant in the west part of town. Could I get the address and phone number please?
+- I would like to find an expensive restaurant in the south part of town. 
+- Hi, I'm looking for an Indian restaurant. I'd prefer something on the west side. 
+- I am looking for a place serving expensive indian food
+- Can you find a restaurant in the west that serves british food?
+- I am looking for an expensive restaurant in the south part of town. 
+- Are there any expensive British restaurants in town?
+- I'm looking for an expensive restaurant in the east part of town.
+- I would like a moderately priced Indian food please.
+- Yes, please help me find a restaurant in the center of town.
+- I am looking for a moderately priced restaurant in the east part of town. 
+- I'm looking for something moderately priced in the west part of town, could you get me the number and full address please?
+- I want a cheap, european restaurant please.
+- Hi, I am looking for a cheap restaurant in the town centre please.
+- Hi, I'm looking for a particular restaurant named Bedouin. Can you help? 
+- I'm looking for a place to dine that serves Vietnamese food in the East.
+- Hello, I am looking for a restaurant that serves halal food. 
+- Do you have any recommendations for a restaurant in the south area in a high price range?
+- I am looking for a restaurant that serves Malaysian food and is in the cheap price range.
+- I need an east restaurant. I want to try some Canapes food.
+- Hi, Have you heard of the J Restaurant?  I'd like some information about it.
+- I would like to find a cheap restaurant. It should be in the North side of town.
+- I am looking for a cheap restaurant to have a meal.
+- Please help me find a restaurant that serves british food near the centre of town.
+- Hello.  Could you help me locate a good moderate restaurant in the south of the city?
+- I am looking for a restaurant in the west part of town.
+- Can you give me the price for a large pizza and what type of pizzas they offer at Pizza Express fen ditton please
+- I need a vegetarian restaurant
+- I'm looking for an expensive place to eat located in centre of town. Can you help?
+-  I am looking for a restaurant. The restaurant should be in the north and should serve italian food
+- Can you help me find an Afghan restaurant on the west side of town? 
+- I need to find some caribbean food in south town.
+- I am looking at a place to eat that serves venetian food in the centre.
+- I am looking for an expensive restaurant that is in the east part of town.
+- I am looking for a place to eat in the West, Thai food please.
+- I want a moderately priced restaurant and serves asian oriental food. What is the address and phone number?
+- Hi. I'm trying to find a restaurant that serves Venetian food.  I'd like to stay in the west part of town.  Can you find me a phone number?
+- I am looking for the chiquito restaurant bar can you help me find it?
+- Are there any cheap Indian restaurants around?
+- I want to find a moderately priced restaurant in the south part of town.
+- Can you recommend a restaurant to me in the South part of town?  I don't want to spend a lot of money.
+- I would like a restaurant in the south part of town that serves greek food
+- I am looking for a restaurant serving Spanish food.
+- I would like to find the best, most expensive restaurant in the south part of town.
+- I am looking for restaurants in the north part of town
+- I need the address of an expensive restaurant in the east part of town.
+- I would like to find a cheap restaurant in the east part of town. 
+- Yes. I would like a moderately priced restaurant in the east part of town. 
+- I'd like a restuarant with Asian Oriental food located in the centre, please.
+- Hi, I am looking for a restaurant in the centre area where I can eat russian food.
+- Hi, I'm trying to find a restaurant called HK Fusion. What info can you get me for that?
+- Hello, I would like to eat somewhere expensive in the North.
+- Can you please recommend an inexpensive restaurant in the East part of town?
+- I would like an expensive Romanian restaurant, please.
+- I am in the past of town. Can you recommend a restaurant in a moderate priced range?
+- What is that european food place's address?
+- I am looking for a restaurant in the west part of town that is in the cheap price range.
+- I would like a cheap Mexican restaurant, please.
+- Can you find a moderately priced restaurant in the east side?
+- Hello, I'm looking for an expensive restaurant located in the south part of town.
+- I'd like to find a restaurant. The restaurant should be expensive in price, only the finest in food. Also, I'd like it if the restaurant was in the centre of town.
+- I am looking for an expensive restaurant in the south part of town.
+- I am looking for a restaurant in the west part of town serving corsica food. 
+- I want to have some afghan food.
+- Hi! I'd like to find a seafood restaurant in the centre of town, please. 
+- I'd like an expensive restaurant in the south part of town. 
+- A cheap jamaican restaurant, please. If you cannot find one, then mediterranean.
+- I need help finding a place that serves spanish food and is located in the centre, can you help me?
+- I would like a cheap restaurant which serves italian food
+- Where can I find portuguese food?
+- Hello, I need some French food. Any price range is fine.
+- I would like a cheap restaurant in the south part of town
+- I would like a cheap restaurant that serves greek food
+- Can you help me find a restaurant that serves greek food and is expensive?
+- What do we have to eat in the expensive european food range?
+- I'm looking for a place serving spanish food somewhere in town. 
+- I'm looking for a restaurant that serves international food.
+- Yes, I'm looking for a Cuban restaurant in the Centre.
+- I would like an expensive restaurant in the south of town.
+- need a restaurant serving turkish style venue
+- Do you have any restaurants that serve caribbean food?
+- Hello. I want a cheap barbeque restaurant.
+- I'm looking for a pricey Indian place. I wanna show off to my date.
+- Hello, I am looking for a moderately priced restaurant that serves european food. 
+- I'm looking to find a place to eat in the centre of town that needs to have a moderate price range.  Can you give me some options?
+- Hello, I am looking for a moderately priced restaurant that serves basque food. 
+- A moderately priced restaurant in the north part of town, please.
+- I'm interested in finding a restaurant that serves Tuscan food.  Do you know of any in the moderate price range?
+- Hello, I am looking for an expensive restaurant that serves fusion food. 
+- I'd like a restaurant with Korean food please. 
+- Can you recommend a good restaurant in the north part of town that serves Australasian food?
+- Is there a restaurant that serves italian food in the expensive price bracket?
+- I need a moderately priced restaurant that serves hungarian food.
+- I am looking for the price range and address of the Meze Bar Restaurant 
+- I am looking for a restaurant. The restaurant should be in the moderate price range and should be in the east
+- I'm looking for places to eat in the North part of town.
+- Are there any Mexican restaurants in the centre?
+- Could you help me find a moderate priced restaurant in the centre?
+- I need help finding a place to dine that is very expensive and is located in the centre.
+- I am looking for a place to eat in town centre.
+- I'm looking for a modern European restaurant near the centre, could you hook me up?
+- Hello, I am looking for a moderately priced restaurant in the south part of town. 
+- I'm looking for a restaurant that serves Indian food located in the centre. 
+- I am looking for a place to dine. The restaurant should be in the cheap price range and should serve vietnamese food.
+- I'd like to find a place that I can get some Northern European food.
+- I would like a moderately priced restaurant that serves mexican food
+- I'd like a place that serves world food in the east part of town. 
+- am looking for a train. The train should depart from peterborough and should go to cambridge.
+- Please give me a moderately priced restaurant serving brazilian food
+- Hi, I'm looking for a restaurant called pizza hut cherry hinton, can you help me find it?
+- I want to find a place serving spanish food in the centre of town.
+- I am looking for a cheap restaurant that serves Polish food.
+- I am looking for a reasonably priced restaurant in the north part of town. 
+- Hey, are there any expensive restaurants in the centre?
+- Can you help me find a place to have dinner?
+- Hello, I am looking for a moderately priced restaurant on the west side of town. 
+- I am looking for a restaurant in the north part of town serving persian food. 
+- I am looking for a moderate priced Chinese food place. 
+- Can you find me a corsica restaurant?
+- Yes I am looking to find a restaurant that is expensive in the south of town.
+- Where'a a restaurant on the east part f town?
+- Hi, I would like a restaurant inthe centre of town which serves creative food please.
+- I am looking for a restaurant that serves Moroccan food and is moderately priced.
+- I am looking for a restaurant, it's called anatolia
+- I'm looking for a cheap restaurant in the east part of town.
+- I am interested in finding an expensive restaurant serving Italian food. 
+- I'm looking for a moderately priced restaurant in the centre of town.
+- Hi! Are there any restaurants in town that serve Scottish food?
+- I need the address, phone number and postcode for a moderately priced restaurant serving international food.
+- Are there any eritrean restaurants in town?
+- I would like a cheap restaurant in the east! 
+- I need the phone number of a restaurant in the west part of town that serves italian ood.
+- Hi! Do you have any Indian food on the east side?
+- I want to find a cheap restaurant in the north part of town.
+- I am looking for a restaurant in the centre in the cheap price range 
+- I would like to eat in the Center of town at a expensive place.
+- I want a restaurant in the north part of town.
+- I'm looking for an Indian restaurant in the west.
+- Yes I am looking for an expensive restaurant in the South of town.
+-  i am looking for a restaurant. The restaurant should be in the expensive price range and should be in the west.
+- Is there a restaurant in the centre of town serving halal food? 
+- Hi.  I am looking for international food, hopefully someplace moderately priced.
+- Hi! I'm looking for information on the Rice House restaurant.
+- Hello, I am looking for a restaurant in the centre of town that serves Brazilian food. 
+- I'm looking for cheap eats in the centre.
+- I'm looking for an expensive restaurant for tonight in the centre of town, can you provide me with a list of my options?
+- I would like an expensive restaurant in the east part of town
+- Hi! Can you give me some information on the Golden Curry restaurant?
+- I am looking for a restaurant with vegetarian food.
+- I'd like a resturant in the centre of town that serves Canapes food.
+- Looking for someone that serves Australasian food?
+- I am looking for a restaurant. The restaurant should serve asian oriental food and should be in the centre
+- I need your help in finding a particular restaurant. I don't know much about the restaurant, unfortunately I don't even know the food served. I do know the name: cafe uno.
+- a north part of town restaurant
+- Indian in the north
+- I would like a moderately priced steakhouse restaurant.
+- I'm looking for a place to dine in the centre.
+- I'm looking for malaysian food.
+- I am looking for a cheap restaurant in the north part of town. 
+- I'm looking for an expensive restaurant in the center of town.
+- I am looking for the address and price range of a restaurant serving chinese food in the south part of town.
+- I am looking for a moderately priced restaurant in the south part of town, please.
+- I am looking to get some eritrean food in the west part of town.
+- In the west part of town, are there any upscale pricey restaurants?
+- I'd like to find an expensive place to dine that specifically serves italian food. 
+- I want to find an expensive restaurant in the south part of town. What is the address and phone number?
+

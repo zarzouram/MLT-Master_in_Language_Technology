@@ -1,0 +1,18 @@
+{
+    "python.pythonPath": "/bin/python3",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "telemetry.enableTelemetry": false,
+    "python.jediEnabled": false,
+    "editor.minimap.enabled": false,
+    "python.dataScience.askForKernelRestart": false,
+    "markdown.extension.tableFormatter.normalizeIndentation": true,
+    "markdown.extension.toc.githubCompatibility": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "wordWrapColumn",
+    "window.zoomLevel": 0,
+    "markdownlint.ignore": [
+        "**/*.md"
+    ],
+    "python.formatting.provider": "black"
+}

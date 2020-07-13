@@ -1,0 +1,7 @@
+{
+    "markdownlint.ignore": [
+        "data/*.md"
+    ],
+    "chronicler.ffmpeg-binary": "/home/guszarzmo@GU.GU.SE/Programs/ffmpeg",
+    "chronicler.dest-folder": "/home/guszarzmo@GU.GU.SE/Recordings"
+}

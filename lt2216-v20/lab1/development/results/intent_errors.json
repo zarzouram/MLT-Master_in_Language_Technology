@@ -1,0 +1,354 @@
+[
+  {
+    "text": "Can you help me, I've been mugged?",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.38295573842920266
+    }
+  },
+  {
+    "text": "Can you help me please? I just got robbed and I need help!",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.4879431484962966
+    }
+  },
+  {
+    "text": "Another driver bumped into my car. He says its no big deal and wants to drive off, but I'm not so sure. Can you help?",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.38551675899860105
+    }
+  },
+  {
+    "text": "Yes, please. I was just robbed and I don't know what to do next.",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.3934676051613053
+    }
+  },
+  {
+    "text": "There's some disagreement about what to do about a car accident. Can you help me with that?",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.36501007768449023
+    }
+  },
+  {
+    "text": "I have been robbed and am looking for help.  Can you help me?",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.4476127667344821
+    }
+  },
+  {
+    "text": "I have been robbed and need to know how I can get help.",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.4109006042987984
+    }
+  },
+  {
+    "text": "Am robbed and looking for help",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.5116667433129517
+    }
+  },
+  {
+    "text": "I've been robbed. Can I get some help?",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.3871450067070628
+    }
+  },
+  {
+    "text": "I was robbed and i don't know what i should do, any ideas?",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.44303958660415516
+    }
+  },
+  {
+    "text": "I was robbed! I need help!",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.43288027396746637
+    }
+  },
+  {
+    "text": "Please help me! I've just been robbed!",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.5059769791785153
+    }
+  },
+  {
+    "text": "I have been robbed and looking for help.",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.5258341047509876
+    }
+  },
+  {
+    "text": "I got into a car accident and need help figuring out what to do next.",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.4020365993375469
+    }
+  },
+  {
+    "text": "Is there an emergency?",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.5081335983657148
+    }
+  },
+  {
+    "text": "Well, I have been in an accident and need some help.",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.566215266259884
+    }
+  },
+  {
+    "text": "Hi I was just robbed... Can I get some help?",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.3846288853076253
+    }
+  },
+  {
+    "text": "Someone just robbed me! I need some help urgently please!",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.4575973608136498
+    }
+  },
+  {
+    "text": "I would like to book a popular, cheap restaurant.",
+    "intent": "contact_police",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.5860851802345574
+    }
+  },
+  {
+    "text": "I need the phone number and location of the nearest Red Lobster in the downtown Cambridge area.",
+    "intent": "book_taxi",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.5326078086361967
+    }
+  },
+  {
+    "text": "Send a taxi to the Parkside Police Station to go to Little Seoul",
+    "intent": "book_taxi",
+    "intent_prediction": {
+      "name": "contact_police",
+      "confidence": 0.5630917222321314
+    }
+  },
+  {
+    "text": "I need a tax to curry garden.",
+    "intent": "book_taxi",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.6162422894289342
+    }
+  },
+  {
+    "text": "I need a taxi to the good luck chinese food takeaway.",
+    "intent": "book_taxi",
+    "intent_prediction": {
+      "name": "find_restaurant",
+      "confidence": 0.7227863576481216
+    }
+  },
+  {
+    "text": "Hi there. I am hoping you could help me find a british restaurant in town.",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.41026270159951195
+    }
+  },
+  {
+    "text": "Hey, I'm up south can you give me a place to eat?",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.5078980109462795
+    }
+  },
+  {
+    "text": "Hello! I would like to go to a restaurant in the east, please.",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.5486703990953689
+    }
+  },
+  {
+    "text": "Hello.  Can you please recommend a Korean restaurant for me?",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.523852876942091
+    }
+  },
+  {
+    "text": "I am looking for Ian hong house",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.6350756032272695
+    }
+  },
+  {
+    "text": "Hi! I need to find the restaurant Pizza Express Fen Ditton.",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.47465199411528136
+    }
+  },
+  {
+    "text": "Hello, I'm looking for a hotel called eraina. Can you help?",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.4234113738688328
+    }
+  },
+  {
+    "text": "Please find me a corsica restaurant.",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.4835390616730279
+    }
+  },
+  {
+    "text": "I am starving!",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.8392520493330479
+    }
+  },
+  {
+    "text": "I'm looking for a restaurant called de luca cucina and bar",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.4586696868701955
+    }
+  },
+  {
+    "text": "Hi, could you tell me the phone number and address of the nearest Mexican restaurant?",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "contact_police",
+      "confidence": 0.4132546371679511
+    }
+  },
+  {
+    "text": "Hi, could you help me find a restaurant called ask.",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.4110574843084083
+    }
+  },
+  {
+    "text": "Could you tell me where Cotto is located?",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.4061136303119045
+    }
+  },
+  {
+    "text": "Hello, could you please find me a place to dine?",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.44704930765616707
+    }
+  },
+  {
+    "text": "Hi! Can you give me some information on the Royal Spice restaurant?",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.46831989988572786
+    }
+  },
+  {
+    "text": "I am looking to eat at Rajmahal.",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.48491540333150596
+    }
+  },
+  {
+    "text": "I'd like a jamaican restaurant please.",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.4916490906450415
+    }
+  },
+  {
+    "text": "Can you tell me about the J Restaurant?",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.4888880013533027
+    }
+  },
+  {
+    "text": "I would like to try saigon city.",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.5513816306307762
+    }
+  },
+  {
+    "text": "am looking for a train. The train should depart from peterborough and should go to cambridge.",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.7233025726739751
+    }
+  },
+  {
+    "text": "Hi! Can you give me some information on the Golden Curry restaurant?",
+    "intent": "find_restaurant",
+    "intent_prediction": {
+      "name": "book_taxi",
+      "confidence": 0.48345789957658747
+    }
+  }
+]

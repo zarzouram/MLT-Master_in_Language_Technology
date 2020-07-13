@@ -1,0 +1,84 @@
+slots:
+  jix:
+    type: text
+  
+  sessionstarted:
+    type: bool
+    initial_value: False
+  
+  #Jokes source: https://parade.com/944054/parade/knock-knock-jokes/
+  jokes:
+    type: list
+    initial_value: 
+    - Doctor: 🤪😂 
+    - Deja: Knock-knock
+    - Cow says: No, a cow says mooooo!
+    - Robin: Robin you, now hand over the cash
+    - Nobel: Nobel…that’s why I knocked
+    - Annie: Annie thing you can do, I can do too!
+    - To: Actually, it’s to whom
+    - An extraterrestrial: Wait, how many extraterrestrials do you know
+  
+  jokes_used:
+    type: list
+    initial_value: []
+
+entities:
+  - jix
+  - jokes
+  - jokes_used
+  - sessionstarted
+
+intents:
+  - ask_joke: {triggers: action_start_joke}
+  - whoisthere: {triggers: action_joke_setup}
+  - who: {triggers: action_joke_punchline}
+  #- greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great: {triggers: action_checksessionstarted}
+  - mood_unhappy: {triggers: action_checksessionstarted}
+  
+actions:
+  - utter_knockknock
+  - utter_greet
+  - utter_happy
+  - utter_goodbye
+  - utter_anotherjoke
+  - utter_blamedevloper
+  - utter_sorry
+  - utter_default
+  - action_joke_setup
+  - action_joke_punchline
+  - action_checksessionstarted
+  - action_start_joke
+
+templates:
+  utter_knockknock:
+  - text: "Knock knock!"
+  
+  utter_greet:
+  - text: "Hi there."
+  
+  utter_happy:
+  - text: "Great. Glad that you like my jokes"
+  
+  utter_goodbye:
+  - text: "Ok, Bye bye"
+  
+  utter_blamedevloper:
+  - text: "it is not my fault. I am just a bot. My developer fshould be blamed for this."
+  
+  utter_sorry:
+  - text: "Oh, sorry."
+  
+  utter_anotherjoke:
+  - text: "Do you want me to tell another joke"
+  
+  utter_default:
+  - text: "Sorry, I don’t understand."
+  
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

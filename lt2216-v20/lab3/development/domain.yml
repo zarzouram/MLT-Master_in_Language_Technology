@@ -1,0 +1,121 @@
+entities:
+ - person
+ - date
+ - time
+ - is_person_known
+ - is_allday
+ - is_finished
+ - status
+
+slots:
+  person:
+    type: text
+    initial_value: "/-"
+  
+  date:
+    type: text
+    initial_value: "/-"
+  
+  time:
+    type: text
+    initial_value: "/-"
+
+  is_person_known:
+    type: categorical
+    values:
+      - known
+      - unkown
+      - notdefined
+    initial_value: "notdefined"
+  
+  is_allday:
+    type: bool
+    initial_value: False
+
+  is_finished:
+    type: bool
+    initial_value: False
+  
+  status:
+    type: categorical
+    values:
+      - ask_yn_correct
+      - ask_is_allday
+      - notdefined
+    initial_value: "notdefined"
+
+intents:
+  - greet
+  - affirm: {triggers: action_state_machine}
+  - deny: {triggers: action_state_machine}
+  - inform: {triggers: action_state_machine}
+
+actions:
+  - utter_greet
+  - utter_wh_person
+  - utter_wh_date
+  - utter_wh_time
+  - utter_is_allday
+  - utter_yn_correct
+  - utter_inform_all
+  - utter_inform_wo_person
+  - utter_inform_wo_time
+  - utter_inform_wo_timeandperson
+  - utter_allset
+  - utter_notexpected
+  - utter_is_person_known
+  - action_state_machine
+
+templates:
+  utter_greet:
+  - text: "Let’s make an appointment."
+  
+  utter_wh_person:
+  - text: "Who are you meeting with?"
+  
+  utter_wh_date:
+  - text: "On which day is your meeting?"
+
+  utter_wh_time:
+  - text: "What time is your meeting"
+  
+  utter_is_allday:
+  - text: "Will it takes the whole day?"
+  
+  utter_yn_correct:
+  - text: "Is this correct?"
+
+  utter_inform_all:
+  - text: |
+      Here is your appointment.
+      You are meeting {person} on {date} at {time}.
+
+  utter_inform_wo_person:
+  - text: |
+      Here is your appointment.
+      You are meeting on {date} at {time}.
+  
+  utter_inform_wo_time:
+  - text: |
+      Here is your appointment.
+      You are meeting {person} on {date}.
+
+  utter_inform_wo_timeandperson:
+  - text: |
+      Here is your appointment.
+      You are meeting on {date}.
+  
+  utter_allset:
+    - text: "Your appoitement has been created"
+  
+  utter_notexpected:
+    - text: "I do not expect this answer!"
+
+  utter_is_person_known:
+    - text: |
+        Do you know the person that you are going 
+        to meet with?
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: false
