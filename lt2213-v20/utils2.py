@@ -5,6 +5,7 @@ from nltk.sem import cooper_storage as cs
 
 from utils import display_latex, display_translation, display_tree, display, Markdown
 from copy import deepcopy
+from itertools import zip_longest
 
 fcfg_string_notv = r"""
 % start S
@@ -125,3 +126,33 @@ def evaluate_sentences(sents_reps, world):
     }
     
     return sents_reps
+
+def compare_synsem(grammar1, grammar2):
+    def syntax_strip(rule):
+        return (list(rule.lhs().values())[0], " ".join(list(r.values())[0] if type(r) != str else '{{STR}}' for r in rule.rhs()))
+    
+    syntactic_categories = {
+        syntax_strip(rule)
+        for rules in [grammar1.productions(), grammar2.productions()]
+        for rule in rules
+    }
+
+    syn_sem = {
+        (cat, sem1, sem2)
+        for cat in syntactic_categories
+        for sem1, sem2 in zip_longest([
+            rule.lhs()['SEM'] 
+            for rule in grammar1.productions()
+            if 'SEM' in rule.lhs()
+            if syntax_strip(rule) == cat
+        ],[
+            rule.lhs()['SEM']
+            for rule in grammar2.productions()
+            if 'SEM' in rule.lhs()
+            if syntax_strip(rule) == cat
+        ])
+    }
+    
+    syn_sem = sorted(list(syn_sem), key=lambda x: x[0])
+    
+    return syn_sem
