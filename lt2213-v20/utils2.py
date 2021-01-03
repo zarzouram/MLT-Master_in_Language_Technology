@@ -12,22 +12,15 @@ fcfg_string_notv = r"""
 ############################
 # Grammar Rules
 #############################
-
 S[SEM = <?subj(?vp)>] -> NP[NUM=?n,SEM=?subj] VP[NUM=?n,SEM=?vp]
-
 NP[NUM=?n,SEM=<?det(?nom)> ] -> Det[NUM=?n,SEM=?det]  Nom[NUM=?n,SEM=?nom]
 NP[NUM=?n,SEM=?np] -> PropN[NUM=?n,SEM=?np]
-
 Nom[NUM=?n,SEM=?nom] -> N[NUM=?n,SEM=?nom]
-
 VP[NUM=?n,SEM=?v] -> IV[NUM=?n,SEM=?v]
-
 PP[+TO, SEM=?np] -> P[+TO] NP[SEM=?np]
-
 #############################
 # Lexical Rules
 #############################
-
 PropN[NUM=sg,SEM=<\P.P(napoleon)>] -> 'Napoleon'
 PropN[NUM=sg,SEM=<\P.P(moscow)>] -> 'Moscow'
 PropN[NUM=sg,SEM=<\P.P(russia)>] -> 'Russia'
@@ -36,31 +29,56 @@ Det[NUM=sg,SEM=<\P Q.all x.(P(x) -> Q(x))>] -> 'every'
 Det[NUM=pl,SEM=<\P Q.all x.(P(x) -> Q(x))>] -> 'all'
 Det[NUM=sg,SEM=<\P Q.exists x.(P(x) & Q(x))>] -> 'a'
 Det[NUM=sg,SEM=<\P Q.exists x.(P(x) & Q(x))>] -> 'an'
-
 N[NUM=sg,SEM=<\x.man(x)>] -> 'man'
 N[NUM=sg,SEM=<\x.bone(x)>] -> 'bone'
 N[NUM=sg,SEM=<\x.dog(x)>] -> 'dog'
 N[NUM=pl,SEM=<\x.dog(x)>] -> 'dogs'
-
 P[+to] -> 'to'
-
 """ 
 fcfg_string_tv = """
 #############################
 # Grammar of transitive verbs and their lexical rules
 #############################
-
 VP[NUM=?n,SEM=<?v(?obj)>] -> TV[NUM=?n,SEM=?v] NP[SEM=?obj]
 VP[NUM=?n,SEM=<?v(?obj,?pp)>] -> DTV[NUM=?n,SEM=?v] NP[SEM=?obj] PP[+TO,SEM=?pp]
-
 TV[NUM=sg,SEM=<\X x.X(\y.bite(x,y))>,TNS=pres] -> 'bites'
 TV[NUM=pl,SEM=<\X x.X(\y.bite(x,y))>,TNS=pres] -> 'bite'
 DTV[NUM=sg,SEM=<\Y X x.X(\z.Y(\y.give(x,y,z)))>,TNS=pres] -> 'gives'
 DTV[NUM=pl,SEM=<\Y X x.X(\z.Y(\y.give(x,y,z)))>,TNS=pres] -> 'give'
-
 """
 syntax_notv = FeatureGrammar.fromstring(fcfg_string_notv)
 syntax = FeatureGrammar.fromstring(fcfg_string_notv + fcfg_string_tv)
+
+
+# Storage base grammar
+
+fcfg_storage = r"""
+% start S
+S[SEM=[CORE=<?subj(?vp)>, STORE=(?b1+?b2)]] -> NP[NUM=?n,SEM=[CORE=?subj, STORE=?b1]] VP[NUM=?n,SEM=[CORE=?vp, STORE=?b2]]
+Nom[NUM=?n,SEM=?s] -> N[NUM=?n,SEM=?s]
+VP[NUM=?n,SEM=?s] -> IV[NUM=?n,SEM=?s]
+VP[NUM=?n,SEM=[CORE=<?v(?obj)>, STORE=(?b1+?b2)]] -> TV[NUM=?n,SEM=[CORE=?v, STORE=?b1]] NP[SEM=[CORE=?obj, STORE=?b2]]
+VP[NUM=?n,SEM=[CORE=<?v(?pp)(?obj)>, STORE=(?b1+?b2+?b3)]] -> DTV[NUM=?n,SEM=[CORE=?v, STORE=?b1]] NP[SEM=[CORE=?obj, STORE=?b2]] PP[+TO,SEM=[CORE=?pp, STORE=?b3]]
+PP[+TO, SEM=[CORE=?np, STORE=?b1]] -> P[+TO] NP[SEM=[CORE=?np, STORE=?b1]]
+PropN[NUM=sg,SEM=[CORE=<\P.P(angus)>, STORE=(/)]] -> 'Angus'
+PropN[NUM=sg,SEM=[CORE=<\P.P(cyril)>, STORE=(/)]] -> 'Cyril'
+PropN[NUM=sg,SEM=[CORE=<\P.P(irene)>, STORE=(/)]] -> 'Irene'
+Det[NUM=sg,SEM=[CORE=<\P Q.all x.(P(x) -> Q(x))>, STORE=(/)]] -> 'every'
+Det[NUM=sg,SEM=[CORE=<\P Q.exists x.(P(x) & Q(x))>, STORE=(/)]] -> 'a'
+N[NUM=sg,SEM=[CORE=<\x.library(x)>, STORE=(/)]] -> 'library'
+N[NUM=sg,SEM=[CORE=<\x.girl(x)>, STORE=(/)]] -> 'girl'
+N[NUM=sg,SEM=[CORE=<\x.boy(x)>, STORE=(/)]] -> 'boy'
+N[NUM=sg,SEM=[CORE=<\x.book(x)>, STORE=(/)]] -> 'book'
+IV[NUM=sg,SEM=[CORE=<\x.smile(x)>, STORE=(/)],TNS=pres] -> 'smiles' 
+TV[NUM=sg,SEM=[CORE=<\X x.X(\y.read(x,y))>, STORE=(/)],TNS=pres] -> 'reads'
+DTV[NUM=sg,SEM=[CORE=<\Y X x.X(\z.Y(\y.give(x,y,z)))>, STORE=(/)],TNS=pres] -> 'gives'
+P[+to] -> 'to'
+NP[NUM=?n,SEM=[CORE=<\P.P(@x)>, STORE=(<bo(?np, @x)>+?b1)]] -> PropN[NUM=?n,SEM=[CORE=?np, STORE=?b1]]
+NP[NUM=?n,SEM=[CORE=<\P.P(@x)>, STORE=(<bo(?det(?nom), @x)>+?b1+?b2)]] -> Det[NUM=?n,SEM=[CORE=?det, STORE=?b1]] Nom[NUM=?n,SEM=[CORE=?nom, STORE=?b2]]
+"""
+
+syntax_storage = FeatureGrammar.fromstring(fcfg_storage)
+
 
 # don't change these functions
 def sem_parser(sents, syntax, verbose=False, is_cs=False):
