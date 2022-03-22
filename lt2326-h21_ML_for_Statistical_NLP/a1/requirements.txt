@@ -1,0 +1,11 @@
+h5py                3.4.0
+jupyter             1.0.0
+matplotlib          3.4.3
+numpy               1.21.2
+opencv-python       4.5.3.56
+scikit-learn        1.0
+torch               1.7.1+cu101
+torchtext           0.8.1
+torchvision         0.8.2+cu101
+tqdm                4.62.3
+visdom              0.1.8.9
