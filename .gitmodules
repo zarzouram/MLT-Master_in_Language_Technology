@@ -1,0 +1,6 @@
+[submodule "00-CoursesMaterials/lt2318-h20_AI_Cognitive_Systems"]
+	path = 00-CoursesMaterials/lt2318-h20_AI_Cognitive_Systems
+	url = git@github.com:sdobnik/aics.git
+[submodule "00-CoursesMaterials/lt2213-v20_Computational_Semantics"]
+	path = 00-CoursesMaterials/lt2213-v20_Computational_Semantics
+	url = git@github.com:zarzouram/computational-semantics.git
