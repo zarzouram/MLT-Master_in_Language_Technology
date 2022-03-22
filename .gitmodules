@@ -4,3 +4,9 @@
 [submodule "00-CoursesMaterials/lt2213-v20_Computational_Semantics"]
 	path = 00-CoursesMaterials/lt2213-v20_Computational_Semantics
 	url = git@github.com:zarzouram/computational-semantics.git
+[submodule "01-Projects/lt2326-h21_ML_for_Statistical_NLP"]
+	path = 01-Projects/lt2326-h21_ML_for_Statistical_NLP
+	url = git@github.com:zarzouram/image_captioning_with_transformers.git
+[submodule "01-Projects/lt2216-v20_DialogSystem1"]
+	path = 01-Projects/lt2216-v20_DialogSystem1
+	url = git@github.com:zarzouram/Play_Ghost_With_Rasa.git
