@@ -1,7 +1,7 @@
 # Master in Language Technology (MLT)
 
-This repository hold materials related my Master in Language technology in the University of Gothenburg.
+This repository hold materials related to my Master in Language Technology at the University of Gothenburg.
 
-My labs are under individual courses folder\
-My projects are under 01-Project folder as submoduls\
-Some other courses materials are under 00-CoursesMaterials as submoduls
+My labs are under the individual courses folders.\
+My projects are under the [01-Projects](/01-Projects) folder as submoduls.\
+Some other course materials are under the [00-CoursesMaterials](/00-CoursesMaterials) folder as submodules..
