@@ -10,3 +10,6 @@
 [submodule "01-Projects/lt2216-v20_DialogSystem1"]
 	path = 01-Projects/lt2216-v20_DialogSystem1
 	url = git@github.com:zarzouram/Play_Ghost_With_Rasa.git
+[submodule "01-Projects/lt2311-h20_re_using_seq_treelstms"]
+	path = 01-Projects/lt2311-h20_re_using_seq_treelstms
+	url = https://github.com/zarzouram/RE_Extraction_tree_and_Seq_LSTM
